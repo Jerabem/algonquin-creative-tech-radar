@@ -1,0 +1,333 @@
+[
+  {
+    "id": "idea-01",
+    "title": "Living Walls",
+    "summary": "Algae photobioreactor panels plus sensors and TouchDesigner visuals for a breathing building lobby.",
+    "programs": [
+      "Bachelor of Interior Design (Honours) (Co-op)",
+      "Interactive Media Design (Co-op and Non Co-op)",
+      "Cabinetmaking and Furniture Technician"
+    ],
+    "tech": [
+      "ecoLogicStudio algae facades",
+      "Sensors & actuators toolkit (IMU, LiDAR, capacitive, servos)",
+      "TouchDesigner"
+    ],
+    "disciplines": [
+      "interior design",
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation",
+      "interaction design",
+      "graphic design",
+      "game design",
+      "heritage & museums",
+      "fashion & textiles"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-02",
+    "title": "The One-Person Studio",
+    "summary": "A short film directed end-to-end by AI agents, with a human director's commentary track on what the agents got wrong.",
+    "programs": [
+      "Film and Media Production",
+      "Interactive Media Management"
+    ],
+    "tech": [
+      "Luma Agents (unified-intelligence video agents)",
+      "invideo Agent Two",
+      "Generative video (Runway Gen-4.5, Google Veo 3.1, Kling 3.0, Luma Ray3, Pika)"
+    ],
+    "disciplines": [
+      "film & video",
+      "animation",
+      "music & audio",
+      "photography",
+      "interaction design",
+      "graphic design",
+      "game design",
+      "exhibition & curation",
+      "marketing & PR",
+      "education"
+    ],
+    "effort": "capstone",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-03",
+    "title": "Holographic Crit",
+    "summary": "End-of-term 3D work reviewed on a glasses-free holographic display instead of printed boards.",
+    "programs": [
+      "Graphic Design",
+      "Game - Art"
+    ],
+    "tech": [
+      "Looking Glass Hololuminescent Displays",
+      "Photogrammetry & Gaussian splatting"
+    ],
+    "disciplines": [
+      "graphic design",
+      "illustration",
+      "marketing & PR",
+      "interaction design",
+      "game design",
+      "animation",
+      "exhibition & curation",
+      "craft & fabrication",
+      "film & video",
+      "heritage & museums"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-04",
+    "title": "Mycelium Commons",
+    "summary": "Furniture for a student space grown from mycelium composites.",
+    "programs": [
+      "Bachelor of Interior Design (Honours) (Co-op)",
+      "Cabinetmaking and Furniture Technician"
+    ],
+    "tech": [
+      "Mycelium composites"
+    ],
+    "disciplines": [
+      "interior design",
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation",
+      "heritage & museums",
+      "fashion & textiles",
+      "interaction design"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-05",
+    "title": "Pocket Volume",
+    "summary": "Virtual production without the LED wall: tracked camera plus Unreal plus green screen in a classroom.",
+    "programs": [
+      "Film and Media Production",
+      "Game - Development"
+    ],
+    "tech": [
+      "Desktop virtual production (Aximmetry, green-screen + Unreal)",
+      "Unreal Engine 5 real-time rendering",
+      "VTubing & avatar performance (VRM, mocap-driven)"
+    ],
+    "disciplines": [
+      "film & video",
+      "animation",
+      "music & audio",
+      "photography",
+      "game design",
+      "interaction design",
+      "illustration",
+      "education",
+      "interior design",
+      "architecture",
+      "theatre & performance"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-06",
+    "title": "Campus Soundwalk",
+    "summary": "A binaural/ambisonic audio walk of campus, triggered by NFC tags at each stop.",
+    "programs": [
+      "Media Production",
+      "Interactive Media Design (Co-op and Non Co-op)"
+    ],
+    "tech": [
+      "Binaural & ambisonic recording",
+      "NFC tap interactions"
+    ],
+    "disciplines": [
+      "film & video",
+      "animation",
+      "music & audio",
+      "photography",
+      "interaction design",
+      "graphic design",
+      "game design",
+      "exhibition & curation",
+      "writing & publishing"
+    ],
+    "effort": "weekend",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-07",
+    "title": "AR Wayfinding",
+    "summary": "Phone-based AR navigation for orientation week.",
+    "programs": [
+      "Interactive Media Design (Co-op and Non Co-op)",
+      "Mobile Application Design and Development"
+    ],
+    "tech": [
+      "Mobile/creator AR (Snap Lens Studio, Adobe Aero)"
+    ],
+    "disciplines": [
+      "interaction design",
+      "graphic design",
+      "game design",
+      "exhibition & curation",
+      "illustration",
+      "marketing & PR"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-08",
+    "title": "Riso AI Zine",
+    "summary": "A zine where every spread pairs AI-generated imagery with risograph's analog texture.",
+    "programs": [
+      "Graphic Design",
+      "Interactive Media Management"
+    ],
+    "tech": [
+      "Risograph",
+      "Generative image (Midjourney, Adobe Firefly, DALL-E class)"
+    ],
+    "disciplines": [
+      "graphic design",
+      "illustration",
+      "marketing & PR",
+      "interaction design",
+      "game design",
+      "exhibition & curation",
+      "writing & publishing"
+    ],
+    "effort": "weekend",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-09",
+    "title": "Swarm Convocation",
+    "summary": "A drone light show over the convocation ceremony, student-choreographed.",
+    "programs": [
+      "Interactive Media Design (Co-op and Non Co-op)",
+      "Film and Media Production"
+    ],
+    "tech": [
+      "Verge Aero (drone-show platform)"
+    ],
+    "disciplines": [
+      "interaction design",
+      "graphic design",
+      "game design",
+      "exhibition & curation",
+      "film & video",
+      "animation",
+      "music & audio",
+      "photography",
+      "events"
+    ],
+    "effort": "capstone",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-10",
+    "title": "Heritage Twin",
+    "summary": "A photoreal digital twin of a heritage building, captured on phones, rendered in real time.",
+    "programs": [
+      "Bachelor of Interior Design (Honours) (Co-op)",
+      "Heritage Carpentry and Joinery"
+    ],
+    "tech": [
+      "Photogrammetry & Gaussian splatting",
+      "Real-time archviz (Twinmotion, Enscape, D5 Render)"
+    ],
+    "disciplines": [
+      "interior design",
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation",
+      "heritage & museums",
+      "fashion & textiles",
+      "film & video",
+      "game design",
+      "interaction design"
+    ],
+    "effort": "term project",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-11",
+    "title": "Conducted by Thought",
+    "summary": "A live generative-music performance controlled by an EMG wristband.",
+    "programs": [
+      "Interactive Media Design (Co-op and Non Co-op)",
+      "Media Production"
+    ],
+    "tech": [
+      "Meta neural wristband (EMG) + Neuralink Telepathy",
+      "TouchDesigner"
+    ],
+    "disciplines": [
+      "interaction design",
+      "graphic design",
+      "game design",
+      "exhibition & curation",
+      "film & video",
+      "animation",
+      "music & audio",
+      "photography"
+    ],
+    "effort": "capstone",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "idea-12",
+    "title": "Prompt-to-Chair",
+    "summary": "Furniture designed by describing it in natural language, cut on the CNC the same day.",
+    "programs": [
+      "Bachelor of Interior Design (Honours) (Co-op)",
+      "Cabinetmaking and Furniture Technician"
+    ],
+    "tech": [
+      "Text-to-CAD startups (Zoo, AdamCAD, CADGPT)",
+      "Desktop CNC milling (Shapeoko, Bantam)"
+    ],
+    "disciplines": [
+      "interior design",
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation",
+      "heritage & museums",
+      "fashion & textiles",
+      "education"
+    ],
+    "effort": "weekend",
+    "status": "seed",
+    "submittedBy": "Seed bank",
+    "date": "2026-10-12"
+  }
+]
