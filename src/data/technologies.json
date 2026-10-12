@@ -1,0 +1,2153 @@
+[
+  {
+    "id": "t001",
+    "name": "TC2 digital jacquard loom",
+    "category": "Digital textiles",
+    "description": "Computer-controlled, manually operated jacquard handloom (Digital Weaving Norway) that weaves photographic-complexity designs from digital files within hours; a pixel is literally a thread.",
+    "relevantDisciplines": "Textile/fibre art, fashion, interior textiles, smart-textile prototyping",
+    "seeItInAction": "digitalweaving.no; Garland Magazine 'Chasing the loom' (garlandmag.com/article/tc2/); TikTok/IG: 'TC2 loom', #digitalweaving",
+    "maturity": "Established (niche)",
+    "source": "https://digitalweaving.no/",
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t002",
+    "name": "Wholegarment 3D knitting (Shima Seiki)",
+    "category": "Digital textiles",
+    "description": "Computerized flat-knitting machines that knit an entire garment in one piece with zero cut waste; APEXFiz digital-twin design software.",
+    "relevantDisciplines": "Fashion design, sustainable apparel, technical textiles",
+    "seeItInAction": "shimaseiki.com/wholegarment/love/; IG: @shimaseiki, 'WHOLEGARMENT knitting'",
+    "maturity": "Emerging in education",
+    "source": "http://www.shimaseiki.com/wholegarment/love/",
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t003",
+    "name": "Computerized multi-needle embroidery",
+    "category": "Digital textiles",
+    "description": "Industrial embroidery machines (Tajima, Barudan) that stitch digitized designs, patches and e-textile circuits at production speed.",
+    "relevantDisciplines": "Fashion, merch, fibre art",
+    "seeItInAction": "TikTok/IG: 'tajima embroidery', 'embroidery digitizing'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t004",
+    "name": "Dye-sublimation printing",
+    "category": "Digital textiles",
+    "description": "Heat transfers dye into polyester fibres as a gas, producing permanent, soft-hand, photo-quality prints; needs 65%+ polyester.",
+    "relevantDisciplines": "Fashion, sportswear, surface/pattern design, merch",
+    "seeItInAction": "Stahls' 'Direct To Film vs Sublimation' (youtube.com/watch?v=FowF8zfRLJU); TikTok: 'sublimation printing'",
+    "maturity": "Established",
+    "source": "https://www.youtube.com/watch?v=FowF8zfRLJU",
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t005",
+    "name": "Direct-to-film (DTF) transfers",
+    "category": "Digital textiles",
+    "description": "Full-colour designs printed to film with adhesive powder, heat-pressed onto almost any fabric including cotton and darks.",
+    "relevantDisciplines": "Fashion, merch, costume",
+    "seeItInAction": "xtool.com DTF-vs-sublimation guide; TikTok: 'DTF printing'",
+    "maturity": "Emerging to established",
+    "source": "https://www.xtool.com/blogs/xtool-academy/dtf-vs-sublimation-printing",
+    "trl": 5,
+    "disciplines": [
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t006",
+    "name": "Direct-to-garment (DTG) printing",
+    "category": "Digital textiles",
+    "description": "Inkjet printing directly onto finished garments; best for cotton, small batches, on-demand.",
+    "relevantDisciplines": "Illustration, merch, graphic design",
+    "seeItInAction": "fitinline.com sublimation/DTG/reactive comparison",
+    "maturity": "Established",
+    "source": "https://fitinline.com/article/read/sublimation-dtg-reactive-printing-key-differences-fashion-teams/",
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "illustration"
+    ]
+  },
+  {
+    "id": "t007",
+    "name": "E-textiles / smart fabrics",
+    "category": "Digital textiles",
+    "description": "Conductive thread, sewable microcontrollers (LilyPad/FLORA), textile sensors and embroidered antennas enabling soft circuits, touch interfaces and biometric garments.",
+    "relevantDisciplines": "Wearables, interaction design, costume, interior textiles",
+    "seeItInAction": "YouTube 'Innovations that are changing the world of e-textiles' (youtube.com/watch?v=APRIMHFUG1w); IG: #etextiles",
+    "maturity": "Emerging",
+    "source": "https://www.youtube.com/watch?v=APRIMHFUG1w",
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t008",
+    "name": "Tufting guns / punch-needle rugs",
+    "category": "Digital textiles",
+    "description": "Handheld electric tufting tools that punch yarn through backing cloth for rugs and wall pieces; a viral craft-tech resurgence.",
+    "relevantDisciplines": "Fibre art, interior design",
+    "seeItInAction": "TikTok: 'tufting gun rug'",
+    "maturity": "Established (craft)",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t009",
+    "name": "LED volumes / in-camera VFX (ICVFX)",
+    "category": "Virtual production",
+    "description": "Curved walls of LED panels displaying real-time CGI that provides light, reflections and parallax-correct backgrounds in camera (ILM StageCraft / The Mandalorian model).",
+    "relevantDisciplines": "Film/TV, animation, game cinematics, theatre",
+    "seeItInAction": "en.wikipedia.org/wiki/StageCraft; infiled.com LED-volume setup guide; YouTube: 'Mandalorian StageCraft behind the scenes'",
+    "maturity": "Established (high-end); emerging in schools",
+    "source": "https://en.wikipedia.org/wiki/StageCraft",
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "animation",
+      "game design",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t010",
+    "name": "Inertial motion-capture suits (Rokoko, Xsens/Movella, Perception Neuron)",
+    "category": "Virtual production",
+    "description": "Wearable IMU-sensor suits capturing full-body performance anywhere for ~$2.5-12K, streaming live into Unreal/Unity/Blender.",
+    "relevantDisciplines": "Animation, game dev, film previs, VTubing",
+    "seeItInAction": "rokoko.com (incl. Smartsuit Pro II); TikTok: 'rokoko mocap'",
+    "maturity": "Emerging",
+    "source": "https://www.rokoko.com/insights/rokoko-launches-smartsuit-pro-ii-an-even-better-indie-mocap-suit",
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "animation",
+      "game design"
+    ]
+  },
+  {
+    "id": "t011",
+    "name": "Optical motion capture (OptiTrack, Vicon)",
+    "category": "Virtual production",
+    "description": "Multi-camera infrared tracking for sub-millimetre, biomechanics-grade capture; the gold standard for AAA games and VFX.",
+    "relevantDisciplines": "Animation, game dev, research",
+    "seeItInAction": "knoxlabs.com mocap comparison",
+    "maturity": "Established",
+    "source": "https://www.knoxlabs.com/blogs/articles/mocap-suit-comparison-best-for-your-needs-moxi-xsens-rokoko-optitrack-qualisys",
+    "trl": 9,
+    "disciplines": [
+      "animation",
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t012",
+    "name": "Unreal Engine 5 real-time rendering",
+    "category": "Virtual production",
+    "description": "Game engine (Nanite virtualized geometry, Lumen global illumination) now used for virtual production, archviz and previs.",
+    "relevantDisciplines": "Film, games, interior design, architecture",
+    "seeItInAction": "tvbeurope.com ILM article; YouTube: 'Unreal Engine 5 demo'",
+    "maturity": "Established",
+    "source": "https://www.tvbeurope.com/production-post/creating-magic-with-light",
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t013",
+    "name": "Virtual cameras & simulcam previs",
+    "category": "Virtual production",
+    "description": "Tablet/camera-tracked virtual cameras letting directors scout and shoot CG sets in real time.",
+    "relevantDisciplines": "Film, animation",
+    "seeItInAction": "YouTube: 'virtual camera previs Unreal'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "animation"
+    ]
+  },
+  {
+    "id": "t014",
+    "name": "Desktop virtual production (Aximmetry, green-screen + Unreal)",
+    "category": "Virtual production",
+    "description": "Software-only virtual production for small studios: tracked cameras, keyed talent, real-time backgrounds without an LED wall.",
+    "relevantDisciplines": "Film programs, streaming, education",
+    "seeItInAction": "YouTube: 'Aximmetry virtual production'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "education"
+    ]
+  },
+  {
+    "id": "t015",
+    "name": "VR headsets (Meta Quest 3/3S class)",
+    "category": "XR",
+    "description": "Standalone headsets enabling immersive design review, virtual studios and training sims at consumer prices.",
+    "relevantDisciplines": "Interior design, architecture, training sims, art",
+    "seeItInAction": "TikTok: 'Quest 3 mixed reality'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture",
+      "education"
+    ]
+  },
+  {
+    "id": "t016",
+    "name": "Mobile/creator AR (Snap Lens Studio, Adobe Aero)",
+    "category": "XR",
+    "description": "No-code AR filters, lenses and placed artworks built for phones and glasses.",
+    "relevantDisciplines": "Graphic design, illustration, marketing, public art",
+    "seeItInAction": "IG/TikTok: 'Lens Studio', 'AR filter tutorial'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "illustration",
+      "interaction design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "t017",
+    "name": "Mixed-reality passthrough production",
+    "category": "XR",
+    "description": "Headsets blending live video with CG for on-set visualization and design review.",
+    "relevantDisciplines": "Film, interior/architectural design",
+    "seeItInAction": "YouTube: 'Quest 3 mixed reality design'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t018",
+    "name": "Virtual galleries & exhibitions (Spatial, ArtSteps)",
+    "category": "XR",
+    "description": "Browser/VR gallery builders for student shows and curatorial projects.",
+    "relevantDisciplines": "Fine art, photography, curatorial studies",
+    "seeItInAction": "spatial.io; artsteps.com",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "photography",
+      "interaction design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t019",
+    "name": "VR training simulations",
+    "category": "XR",
+    "description": "Immersive sims for healthcare, trades, paramedicine and public safety already used in college labs.",
+    "relevantDisciplines": "Health, trades, PPSI disciplines",
+    "seeItInAction": "YouTube: 'VR nursing simulation training'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t020",
+    "name": "Haptic gloves & full-body VR",
+    "category": "XR",
+    "description": "Force-feedback gloves and suits adding touch to virtual sculpting and training.",
+    "relevantDisciplines": "3D art, industrial design, sims",
+    "seeItInAction": "YouTube: 'haptic glove VR sculpting'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t021",
+    "name": "Arduino microcontrollers",
+    "category": "Electronics",
+    "description": "Cheap, beginner-friendly boards for sensing, light, sound and motion in artworks and prototypes.",
+    "relevantDisciplines": "Interactive art, wearables, theatre tech",
+    "seeItInAction": "TikTok: 'arduino projects'; arduino.cc",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t022",
+    "name": "Raspberry Pi / single-board computers",
+    "category": "Electronics",
+    "description": "Full Linux computers for media servers, kiosks and computer-vision installations.",
+    "relevantDisciplines": "Interactive media, installations",
+    "seeItInAction": "YouTube: 'Raspberry Pi art installation'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t023",
+    "name": "Sensors & actuators toolkit (IMU, LiDAR, capacitive, servos)",
+    "category": "Electronics",
+    "description": "Off-the-shelf sensing plus motion output for responsive environments.",
+    "relevantDisciplines": "Interaction design, installations, robotics art",
+    "seeItInAction": "adafruit.com learn guides",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t024",
+    "name": "TouchDesigner",
+    "category": "Electronics",
+    "description": "Node-based visual programming for real-time generative visuals, projection mapping and sensor-driven installations (free educational licence).",
+    "relevantDisciplines": "Interactive media, VJ/DJ visuals, installations",
+    "seeItInAction": "stevezafeiriou.com TouchDesigner beginner tutorial; derivative.ca projection-mapping workshop",
+    "maturity": "Established (niche)",
+    "source": "https://stevezafeiriou.com/touchdesigner-tutorial-for-beginners/",
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t025",
+    "name": "PCB design (KiCad)",
+    "category": "Electronics",
+    "description": "Free EDA software taking student circuits from breadboard to manufacturable boards.",
+    "relevantDisciplines": "Wearables, product design, e-textiles",
+    "seeItInAction": "kicad.org; YouTube: 'KiCad tutorial'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t026",
+    "name": "Creative coding (p5.js, Processing, openFrameworks, three.js)",
+    "category": "Electronics",
+    "description": "Code-as-art frameworks for generative visuals and web interactivity.",
+    "relevantDisciplines": "Generative art, web design, data art",
+    "seeItInAction": "github.com/isaacsight/awesome-creative-intelligence",
+    "maturity": "Established",
+    "source": "https://github.com/isaacsight/awesome-creative-intelligence",
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t027",
+    "name": "ESP32 wireless wearables",
+    "category": "Electronics",
+    "description": "Wi-Fi/Bluetooth microcontrollers for connected costumes and IoT artworks.",
+    "relevantDisciplines": "Wearables, performance tech",
+    "seeItInAction": "YouTube: 'ESP32 wearable project'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t028",
+    "name": "FDM 3D printing (Bambu Lab class)",
+    "category": "Desktop fabrication",
+    "description": "Fast, enclosed, auto-calibrating filament printers that made 3D printing classroom-reliable; Bambu Lab's 2026 School Ambassador Program is seeding schools across North America.",
+    "relevantDisciplines": "Product design, sculpture, theatre props, jewellery",
+    "seeItInAction": "TikTok: 'bambu lab timelapse'",
+    "maturity": "Established",
+    "source": "https://www.gadgetbridge.com/bambu-lab-kicks-off-the-2026-school-ambassador-program-to-empower-students-to-become-active-STEM-educators/",
+    "trl": 9,
+    "disciplines": [
+      "theatre & performance",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t029",
+    "name": "Large-format FDM printing",
+    "category": "Desktop fabrication",
+    "description": "Big-envelope machines printing furniture-scale parts and cosplay armour in one piece.",
+    "relevantDisciplines": "Sculpture, set design, cosplay",
+    "seeItInAction": "news.lavx.hu Bambu A2L review",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t030",
+    "name": "Resin (MSLA) 3D printing",
+    "category": "Desktop fabrication",
+    "description": "LCD-masked resin printers producing jewellery-smooth, high-detail parts.",
+    "relevantDisciplines": "Jewellery, miniatures, dental, product design",
+    "seeItInAction": "TikTok: 'resin 3D printing'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t031",
+    "name": "SLS / powder-bed printing services",
+    "category": "Desktop fabrication",
+    "description": "Industrial nylon printing via bureaus for functional, no-support parts.",
+    "relevantDisciplines": "Product/industrial design",
+    "seeItInAction": "YouTube: 'SLS 3D printing explained'",
+    "maturity": "Established (service-based)",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t032",
+    "name": "Laser cutting & engraving (xTool, Glowforge class)",
+    "category": "Desktop fabrication",
+    "description": "CO2/diode lasers cutting wood, acrylic and fabric and engraving everything from laptops to leather.",
+    "relevantDisciplines": "Graphic design, packaging, architecture models, fashion",
+    "seeItInAction": "xtool.com; TikTok: 'laser cutting business'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "interaction design",
+      "architecture",
+      "fashion & textiles",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t033",
+    "name": "Desktop CNC milling (Shapeoko, Bantam)",
+    "category": "Desktop fabrication",
+    "description": "Subtractive carving of wood, plastics and soft metals for signage, furniture and moulds.",
+    "relevantDisciplines": "Furniture, product design, set building",
+    "seeItInAction": "YouTube: 'Shapeoko CNC beginner'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t034",
+    "name": "Vinyl & craft cutting (Cricut, Silhouette)",
+    "category": "Desktop fabrication",
+    "description": "Blade cutters for decals, stencils, heat-transfer apparel graphics and paper engineering.",
+    "relevantDisciplines": "Graphic design, merch, packaging",
+    "seeItInAction": "TikTok: 'cricut small business'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t035",
+    "name": "Pen plotters / drawbots (AxiDraw)",
+    "category": "Desktop fabrication",
+    "description": "Robotic pens drawing generative art with real ink; the plotter revival behind #plottertwitter.",
+    "relevantDisciplines": "Generative art, illustration",
+    "seeItInAction": "IG: #plottertwitter; YouTube: 'AxiDraw generative art'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "illustration",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t036",
+    "name": "Generative image (Midjourney, Adobe Firefly, DALL-E class)",
+    "category": "AI in creative workflows",
+    "description": "Text-to-image models for concept art, moodboards, mockups and illustration drafts.",
+    "relevantDisciplines": "All visual disciplines",
+    "seeItInAction": "LinkedIn '2026 AI Creative Tools Guide'",
+    "maturity": "Established",
+    "source": "https://www.linkedin.com/pulse/2026-ai-creative-tools-guide-video-image-generation-features-raj-zyvfc",
+    "trl": 9,
+    "disciplines": [
+      "illustration",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t037",
+    "name": "Generative video (Runway Gen-4.5, Google Veo 3.1, Kling 3.0, Luma Ray3, Pika)",
+    "category": "AI in creative workflows",
+    "description": "Text/image-to-video with native audio and camera controls. Note: OpenAI's Sora consumer app was discontinued April 2026.",
+    "relevantDisciplines": "Film, animation, advertising, social content",
+    "seeItInAction": "eweek.com 'Sora Is Gone: 6 AI Video Tools'",
+    "maturity": "Emerging (very fast-moving)",
+    "source": "https://www.eweek.com/news/sora-alternatives-ai-video-tools-2026/",
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "animation",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "t038",
+    "name": "AI music & audio (Suno, Udio, Stable Audio)",
+    "category": "AI in creative workflows",
+    "description": "Full songs and production-ready stems from prompts; a live copyright and pedagogy debate.",
+    "relevantDisciplines": "Music production, film scoring, content",
+    "seeItInAction": "TikTok: 'Suno AI song'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t039",
+    "name": "AI voice, dubbing & avatars (ElevenLabs, HeyGen, Synthesia)",
+    "category": "AI in creative workflows",
+    "description": "Cloned narration, multilingual dubbing and presenter avatars for training and marketing video.",
+    "relevantDisciplines": "Broadcasting, corporate media, e-learning",
+    "seeItInAction": "LinkedIn 2026 AI guide (HeyGen/Synthesia entries)",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t040",
+    "name": "AI-assisted editing (Premiere Pro AI, DaVinci Neural Engine, Topaz)",
+    "category": "AI in creative workflows",
+    "description": "Auto-reframe, text-based editing, silence removal, upscaling and denoising inside standard NLEs.",
+    "relevantDisciplines": "Film, journalism, content creation",
+    "seeItInAction": "YouTube: 'Premiere Pro AI features 2026'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "journalism"
+    ]
+  },
+  {
+    "id": "t041",
+    "name": "AI image restoration & upscaling",
+    "category": "AI in creative workflows",
+    "description": "Recovering and enlarging archival photos/video for docs and exhibitions.",
+    "relevantDisciplines": "Photography, film, museum studies",
+    "seeItInAction": "YouTube: 'Topaz Photo AI restore'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "photography",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t042",
+    "name": "LLM writing assistants",
+    "category": "AI in creative workflows",
+    "description": "Script, treatment, grant and artist-statement drafting plus structured critique.",
+    "relevantDisciplines": "All disciplines",
+    "seeItInAction": "Platform docs (generic)",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t043",
+    "name": "AI 3D generation (Meshy, TripoSR, Rodin)",
+    "category": "AI in creative workflows",
+    "description": "Text/image-to-3D-mesh for rapid prototyping and game assets; quality still stylized.",
+    "relevantDisciplines": "Game art, product design, previz",
+    "seeItInAction": "TikTok: 'AI text to 3D'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "game design",
+      "interaction design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t044",
+    "name": "Drone cinematography (DJI class)",
+    "category": "Photo/video",
+    "description": "Sub-249g to cinema drones with obstacle sensing putting aerials in every student kit.",
+    "relevantDisciplines": "Film, journalism, real estate, tourism",
+    "seeItInAction": "TikTok: 'DJI drone cinematic'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "journalism"
+    ]
+  },
+  {
+    "id": "t045",
+    "name": "360 cameras (Insta360 class)",
+    "category": "Photo/video",
+    "description": "One-take spherical capture reframed in post; virtual-tour and immersive-doc staple.",
+    "relevantDisciplines": "Film, virtual tours, journalism",
+    "seeItInAction": "TikTok: 'Insta360 reframing tutorial'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "journalism"
+    ]
+  },
+  {
+    "id": "t046",
+    "name": "Computational photography",
+    "category": "Photo/video",
+    "description": "Night mode, portrait depth and AI erase built into phones; the default student camera.",
+    "relevantDisciplines": "Photography, journalism, design research",
+    "seeItInAction": "Phone-maker keynotes (generic)",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "photography",
+      "interaction design",
+      "journalism"
+    ]
+  },
+  {
+    "id": "t047",
+    "name": "Mirrorless hybrid cameras",
+    "category": "Photo/video",
+    "description": "Affordable full-frame bodies shooting broadcast-grade video and stills (the DSLR-replacement generation).",
+    "relevantDisciplines": "Photography, film",
+    "seeItInAction": "YouTube camera-review channels",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "photography"
+    ]
+  },
+  {
+    "id": "t048",
+    "name": "Gimbals & stabilizers",
+    "category": "Photo/video",
+    "description": "3-axis stabilization for walk-and-talk and run-and-gun production.",
+    "relevantDisciplines": "Film, journalism, events",
+    "seeItInAction": "TikTok: 'gimbal videography'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "journalism",
+      "events"
+    ]
+  },
+  {
+    "id": "t049",
+    "name": "Volumetric capture",
+    "category": "Photo/video",
+    "description": "Multi-camera arrays recording true 3D video for holograms and VR playback.",
+    "relevantDisciplines": "Immersive media, performance capture",
+    "seeItInAction": "YouTube: 'volumetric capture studio'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t050",
+    "name": "Spatial audio / Dolby Atmos mixing",
+    "category": "Audio",
+    "description": "Object-based immersive mixing now expected for music releases and film; schools adding Atmos rooms and certification paths.",
+    "relevantDisciplines": "Music production, film sound",
+    "seeItInAction": "abbeyroadinstitute.co.uk Dolby Atmos course; TikTok: 'Dolby Atmos mixing'",
+    "maturity": "Emerging in education",
+    "source": "https://abbeyroadinstitute.co.uk/courses/dolby-atmos-mixing-for-music/",
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t051",
+    "name": "Modular synthesis (Eurorack)",
+    "category": "Audio",
+    "description": "Patchable hardware synth modules for sound design; a hands-on counterpoint to in-the-box production.",
+    "relevantDisciplines": "Music, sound art, game audio",
+    "seeItInAction": "TikTok: 'eurorack modular synth'",
+    "maturity": "Established (niche)",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "game design",
+      "interaction design",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t052",
+    "name": "Modern DAW & plugin ecosystems (Ableton, Logic, VST/AU)",
+    "category": "Audio",
+    "description": "The mature software studio stack students already live in.",
+    "relevantDisciplines": "Music production",
+    "seeItInAction": "YouTube producer channels",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t053",
+    "name": "Field recording & foley",
+    "category": "Audio",
+    "description": "Portable recorders and contact mics for location sound and sound design.",
+    "relevantDisciplines": "Film, game audio, sound art",
+    "seeItInAction": "YouTube: 'foley artists'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t054",
+    "name": "AI mastering & stem separation (LANDR, RipX class)",
+    "category": "Audio",
+    "description": "Automated mastering and un-mixing of finished tracks.",
+    "relevantDisciplines": "Music production, remix education",
+    "seeItInAction": "Product sites (generic)",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "music & audio",
+      "education"
+    ]
+  },
+  {
+    "id": "t055",
+    "name": "Binaural & ambisonic recording",
+    "category": "Audio",
+    "description": "Dummy-head and 360 mic techniques for VR and immersive installation audio.",
+    "relevantDisciplines": "Immersive media, sound art",
+    "seeItInAction": "YouTube: 'ambisonic recording'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t056",
+    "name": "Digital production presses (HP Indigo class)",
+    "category": "Print & publishing",
+    "description": "Offset-quality short-run digital printing enabling variable-data and on-demand books.",
+    "relevantDisciplines": "Graphic design, publishing",
+    "seeItInAction": "YouTube: 'HP Indigo printing'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "t057",
+    "name": "Large-format inkjet",
+    "category": "Print & publishing",
+    "description": "Roll printers for posters, exhibition graphics and textile sampling.",
+    "relevantDisciplines": "Graphic design, photography, exhibitions",
+    "seeItInAction": "Print-shop tour videos (generic)",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "photography",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t058",
+    "name": "Risograph",
+    "category": "Print & publishing",
+    "description": "Soy-based spot-colour duplicators producing textured, zine-culture prints; SVA runs the only dedicated educational RisoLAB (7 machines, 27 spot colours).",
+    "relevantDisciplines": "Graphic design, illustration, zines, art books",
+    "seeItInAction": "risolab.sva.edu/courses/; TikTok: 'risograph printing'",
+    "maturity": "Established (niche)",
+    "source": "https://risolab.sva.edu/courses/",
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "illustration",
+      "interaction design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "t059",
+    "name": "Contemporary screen printing",
+    "category": "Print & publishing",
+    "description": "Water-based inks, automated carousels and poster editions bridging craft and production.",
+    "relevantDisciplines": "Merch, gig posters, textiles",
+    "seeItInAction": "TikTok: 'screen printing process'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t060",
+    "name": "Zine & indie publishing networks",
+    "category": "Print & publishing",
+    "description": "Art-book fairs and distro culture as the distribution layer for print students.",
+    "relevantDisciplines": "Illustration, graphic design, photography",
+    "seeItInAction": "IG: 'art book fair'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "illustration",
+      "photography"
+    ]
+  },
+  {
+    "id": "t061",
+    "name": "Unity engine",
+    "category": "Game & interactive",
+    "description": "The accessible, mobile/indie-dominant real-time engine.",
+    "relevantDisciplines": "Game dev, interactive media, AR",
+    "seeItInAction": "unity.com; YouTube Unity demos",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t062",
+    "name": "Unreal Engine for games",
+    "category": "Game & interactive",
+    "description": "AAA-grade engine also driving virtual production and archviz.",
+    "relevantDisciplines": "Game dev, film, design viz",
+    "seeItInAction": "unrealengine.com",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "game design"
+    ]
+  },
+  {
+    "id": "t063",
+    "name": "Procedural generation (Houdini)",
+    "category": "Game & interactive",
+    "description": "Node-based procedural modelling for VFX, environments and motion graphics.",
+    "relevantDisciplines": "VFX, game art, motion design",
+    "seeItInAction": "YouTube: 'Houdini procedural tutorial'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t064",
+    "name": "Haptics (controllers, vests, gloves)",
+    "category": "Game & interactive",
+    "description": "Touch feedback hardware for games, training and installations.",
+    "relevantDisciplines": "Game dev, VR, sims",
+    "seeItInAction": "YouTube: 'bHaptics review'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t065",
+    "name": "Web interactive (three.js, WebGPU)",
+    "category": "Game & interactive",
+    "description": "3D in the browser with no install; the portfolio and data-viz layer.",
+    "relevantDisciplines": "Web design, data art",
+    "seeItInAction": "threejs.org",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t066",
+    "name": "VTubing & avatar performance (VRM, mocap-driven)",
+    "category": "Game & interactive",
+    "description": "Real-time animated personas for streaming and virtual events.",
+    "relevantDisciplines": "Animation, performance, streaming",
+    "seeItInAction": "TikTok: 'vtuber rigging'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "animation",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t067",
+    "name": "Parametric design (Grasshopper + Rhino)",
+    "category": "Design computation",
+    "description": "Visual-algorithmic modelling for architecture, jewellery and product systems.",
+    "relevantDisciplines": "Interior/architectural design, product design",
+    "seeItInAction": "YouTube: 'Grasshopper parametric tutorial'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t068",
+    "name": "Real-time archviz (Twinmotion, Enscape, D5 Render)",
+    "category": "Design computation",
+    "description": "One-click photoreal rendering from BIM/CAD models for client walkthroughs.",
+    "relevantDisciplines": "Interior design, architecture",
+    "seeItInAction": "YouTube: 'Twinmotion interior render'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t069",
+    "name": "BIM (Revit, ArchiCAD)",
+    "category": "Design computation",
+    "description": "Building information modelling as the construction-documentation standard.",
+    "relevantDisciplines": "Interior design, architecture, construction",
+    "seeItInAction": "autodesk.com",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t070",
+    "name": "Digital fashion (CLO3D, Browzwear)",
+    "category": "Design computation",
+    "description": "True-to-life 3D garment simulation replacing physical samples.",
+    "relevantDisciplines": "Fashion design, costume",
+    "seeItInAction": "TikTok: 'CLO3D fashion'; clo3d.com",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t071",
+    "name": "Photogrammetry & Gaussian splatting",
+    "category": "Design computation",
+    "description": "Turning phone photos into 3D scenes and radiance-field captures for VFX and virtual sets.",
+    "relevantDisciplines": "Film, game art, heritage documentation",
+    "seeItInAction": "YouTube: 'Gaussian splatting tutorial'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "t072",
+    "name": "Mycelium composites",
+    "category": "Sustainable materials",
+    "description": "Fungus-grown panels, bricks and sculptural forms from agricultural waste; emission-free, compostable, already in art installations.",
+    "relevantDisciplines": "Sculpture, product design, interior/architecture",
+    "seeItInAction": "TikTok: 'mycelium material'; mdpi.com mycelium-composites review",
+    "maturity": "Emerging",
+    "source": "https://www.mdpi.com/2071-1050/17/24/11350",
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t073",
+    "name": "DIY bioplastics",
+    "category": "Sustainable materials",
+    "description": "Kitchen-lab plastics from gelatin, starch and glycerin for packaging, jewellery and prototypes.",
+    "relevantDisciplines": "Product design, packaging, sculpture",
+    "seeItInAction": "biomaker.risd.edu starch bioplastic lesson",
+    "maturity": "Emerging",
+    "source": "http://biomaker.risd.edu/curriculum/lesson2.pdf",
+    "trl": 5,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t074",
+    "name": "Recycled & bio-based 3D filaments (rPLA, rPETG, PHA)",
+    "category": "Sustainable materials",
+    "description": "Filaments from recycled or bacterial feedstocks closing the desktop-fab loop.",
+    "relevantDisciplines": "Product design, sculpture",
+    "seeItInAction": "TikTok: 'recycled filament'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t075",
+    "name": "Natural dyes & algae/earth inks",
+    "category": "Sustainable materials",
+    "description": "Plant, mineral and algae pigments for low-impact textile and print colour.",
+    "relevantDisciplines": "Textiles, print, illustration",
+    "seeItInAction": "IG: 'natural dyeing'; YouTube: 'algae ink'",
+    "maturity": "Emerging (craft revival)",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "illustration",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t076",
+    "name": "Bacterial cellulose / kombucha leather",
+    "category": "Sustainable materials",
+    "description": "SCOBY-grown leather-like sheets for accessories and wearables.",
+    "relevantDisciplines": "Fashion, product design",
+    "seeItInAction": "biomaker.risd.edu kombucha-leather lesson",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "fashion & textiles",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t077",
+    "name": "Projection mapping (MadMapper, HeavyM, TouchDesigner)",
+    "category": "Cross-cutting",
+    "description": "Warping video onto buildings, sculptures and stages; the backbone of immersive events.",
+    "relevantDisciplines": "Events, theatre, installations, VJing",
+    "seeItInAction": "derivative.ca projection-mapping workshop",
+    "maturity": "Established",
+    "source": "https://derivative.ca/workshop/projection-mapping-touchdesigner/72115",
+    "trl": 9,
+    "disciplines": [
+      "theatre & performance",
+      "events"
+    ]
+  },
+  {
+    "id": "t078",
+    "name": "Kinetic & robotic art",
+    "category": "Cross-cutting",
+    "description": "Motor-, Arduino- and pneumatics-driven sculpture.",
+    "relevantDisciplines": "Sculpture, installations, theatre",
+    "seeItInAction": "YouTube: 'kinetic sculpture'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "theatre & performance",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t079",
+    "name": "3D scanning (phone LiDAR, structured-light scanners)",
+    "category": "Cross-cutting",
+    "description": "Capturing real objects/people for digital doubles and heritage records.",
+    "relevantDisciplines": "Game art, VFX, museum studies",
+    "seeItInAction": "TikTok: 'polycam 3D scan'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t080",
+    "name": "Google DeepMind Genie 3 / Project Genie",
+    "category": "Neural rendering & world models",
+    "description": "Real-time interactive 'world model': prompt a scene and explore a navigable 3D environment generated on the fly (720p/24fps), with promptable world events. Project Genie is the 2026 consumer interface. DISRUPTIVE BECAUSE: replaces weeks of manual level/set/scene construction with promptable, explorable worlds; introduces 'promptable directing' as a craft.",
+    "relevantDisciplines": "Film/previs, game design, animation, architecture visualization, theatre/set design",
+    "seeItInAction": "labs.google/projectgenie; search 'Genie 3 DeepMind demo'; TechCrunch Jan 2026 hands-on",
+    "maturity": "Emerging",
+    "source": "https://en.wikipedia.org/wiki/Genie_(world_model)",
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "animation",
+      "game design",
+      "interaction design",
+      "architecture",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t081",
+    "name": "World Labs Marble + Atlas (acquired by AMD)",
+    "category": "Neural rendering & world models",
+    "description": "Marble converts text/photos/video into persistent, editable, downloadable 3D environments (splats, meshes) with the 'Chisel' hybrid editor (block out with simple shapes, then prompt aesthetics). Atlas is an omni foundation model for camera-controlled video and 3D reconstruction. AMD announced an $8.2B all-stock acquisition (Sep 28, 2026). DISRUPTIVE BECAUSE: persistent exportable worlds plug into Unity/Unreal pipelines; threatens junior environment/asset work and stock-asset marketplaces.",
+    "relevantDisciplines": "Game art, VFX, virtual production, architecture/interior visualization",
+    "seeItInAction": "TechCrunch Marble launch (Nov 12, 2025); search 'World Labs Atlas demo'; the-decoder acquisition coverage",
+    "maturity": "Just-commercialized",
+    "source": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/",
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t082",
+    "name": "Decart Oasis 3 + Lucy 2 (real-time video-to-video worlds)",
+    "category": "Neural rendering & world models",
+    "description": "Lucy 2 is a live video-to-video model (~150-200ms latency) restyling live camera/game feeds; Oasis 3 generates photorealistic interactive driving scenarios in real time, API-priced at $0.02/second. DISRUPTIVE BECAUSE: makes live generative video a broadcast/performance medium; displaces keyed green-screen compositing for live use.",
+    "relevantDisciplines": "Live performance/VJ, streaming, advertising, fashion tech, game prototyping",
+    "seeItInAction": "github.com/DecartAI/Decart-XR (open source); YouTube 'Decart Lucy 2 demo'",
+    "maturity": "Just-commercialized",
+    "source": "https://github.com/DecartAI/Decart-XR",
+    "trl": 7,
+    "disciplines": [
+      "game design",
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t083",
+    "name": "Gaussian splatting as an open standard (glTF KHR_gaussian_splatting, OpenUSD)",
+    "category": "Neural rendering & world models",
+    "description": "3D Gaussian splatting (100+ fps real-time photoreal rendering from photos) ratified as a Khronos glTF extension in 2026 and as an OpenUSD 26.03 schema; phone capture apps (Scaniverse, Polycam). DISRUPTIVE BECAUSE: photoreal 3D capture/export becomes as interoperable as JPEG; replaces photogrammetry-mesh pipelines; threatens stock-photography/scanning services.",
+    "relevantDisciplines": "Photography, VFX, games, real estate/architecture visualization, museums/heritage",
+    "seeItInAction": "ar-go.co/blog/what-is-gaussian-splatting/; SuperSplat editor; search 'KHR_gaussian_splatting examples'",
+    "maturity": "Just-commercialized",
+    "source": "https://ar-go.co/blog/what-is-gaussian-splatting/",
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "photography",
+      "interaction design",
+      "architecture",
+      "exhibition & curation",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "t084",
+    "name": "Feed-forward & mobile Gaussian splatting research",
+    "category": "Neural rendering & world models",
+    "description": "2026 research stream pushing splats beyond per-scene GPU training: instant 360-degree reconstruction, real-time splatting compressed for mobile GPUs, ~90% fewer Gaussians at equal quality. DISRUPTIVE BECAUSE: removes the 'train per scene' bottleneck; enables AR glasses to display photoreal worlds captured seconds earlier.",
+    "relevantDisciplines": "AR/VR, 3D scanning, technical art, research",
+    "seeItInAction": "xiaobiaodu.github.io/flux-gs-project; search 'CVPR 2026 Gaussian splatting'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t085",
+    "name": "Luma Agents (unified-intelligence video agents)",
+    "category": "Agentic video production",
+    "description": "Agents that orchestrate complete creative workflows end-to-end across text, image, video, and audio from a single system. Adopted by Publicis Groupe, Adidas, Mazda. DISRUPTIVE BECAUSE: collapses the producer/editor/VFX-supervisor stack into one agent-directed pipeline; the 'AI director' model.",
+    "relevantDisciplines": "Advertising, branded content, motion design, film producing",
+    "seeItInAction": "Search 'Luma Agents March 2026'; bonega.ai explainer",
+    "maturity": "Just-commercialized",
+    "source": "https://bonega.ai/en/blog/luma-agents-agentic-video-editing-ai-directing-2026",
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "t086",
+    "name": "invideo Agent Two",
+    "category": "Agentic video production",
+    "description": "Multi-agent film production platform: specialist agents run prompts, model selection, references, and retakes in parallel across 200+ models; persistent character identity across AI-generated shots. DISRUPTIVE BECAUSE: turns a single director into a studio; solves the #1 continuity problem of generative film.",
+    "relevantDisciplines": "Indie film, YouTube/creator economy, education media",
+    "seeItInAction": "invideo.io/perf/ai-filmmaking/",
+    "maturity": "Just-commercialized",
+    "source": "https://invideo.io/perf/ai-filmmaking/",
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "education"
+    ]
+  },
+  {
+    "id": "t087",
+    "name": "HeyGen Video Agent",
+    "category": "Agentic video production",
+    "description": "One prompt to full multi-scene avatar-led video, claimed 80-90% production-ready, powered by Avatar IV/V neural lip-sync models. DISRUPTIVE BECAUSE: talking-head corporate/educational content without cameras, crews, or presenters; displaces entry-level video production jobs.",
+    "relevantDisciplines": "Corporate training, marketing, online education, localization",
+    "seeItInAction": "HeyGen product demos; ai.plainenglish.io 'What is agentic video?' (Sep 2026)",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "interaction design",
+      "marketing & PR",
+      "education"
+    ]
+  },
+  {
+    "id": "t088",
+    "name": "OpenMontage (open-source agentic film studio)",
+    "category": "Agentic video production",
+    "description": "Open-source project (29k GitHub stars) turning any coding assistant into a full video production studio via pipeline manifests: script, footage, narration, music, subtitles, final render from one prompt, no API key required. DISRUPTIVE BECAUSE: zero-cost agentic filmmaking teachable in classrooms; shifts the skill from operating NLEs to designing production pipelines.",
+    "relevantDisciplines": "Film education, documentary, journalism, content creation",
+    "seeItInAction": "GitHub: search 'OpenMontage'; byteiota.com explainer (Sep 2026)",
+    "maturity": "Emerging",
+    "source": "https://byteiota.com/openmontage-your-ai-coding-assistant-can-now-direct-films/",
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "interaction design",
+      "journalism",
+      "education"
+    ]
+  },
+  {
+    "id": "t089",
+    "name": "Eddie AI (agentic assistant editor) + Iconik",
+    "category": "Agentic video production",
+    "description": "Agentic assistant editor ingesting managed footage (incl. multicam) via Iconik media-asset-management integration: logs, selects, stringouts, organized bins, rough cuts, exporting to Premiere/DaVinci. DISRUPTIVE BECAUSE: automates the assistant-editor role - the traditional entry rung of post-production careers.",
+    "relevantDisciplines": "Film/TV post-production, branded content, podcast video",
+    "seeItInAction": "businesswire.com announcement (June 16, 2026); Cine Gear Expo demos",
+    "maturity": "Just-commercialized",
+    "source": "https://www.businesswire.com/news/home/20260616468690/en/Eddie-AI-Integrates-with-Iconik-to-Bring-Agentic-AI-Supported-Video-Editing-Into-Media-Asset-Management-Workflows",
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "music & audio",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "t090",
+    "name": "Mobbi AI ('vibe editing')",
+    "category": "Agentic video production",
+    "description": "Conversational AI Video Agent unifying Seedance 2.0, Sora 2, Kling 3.0, Veo 3.1 in one workflow: describe the video in natural language, get long-form output, revise in plain words. DISRUPTIVE BECAUSE: multi-model orchestration as consumer UX; displaces the 'which AI video tool' learning curve with direction skill.",
+    "relevantDisciplines": "Marketing, education, animation, social media",
+    "seeItInAction": "mobbi.ai; GlobeNewswire launch release (Feb 13, 2026)",
+    "maturity": "Just-commercialized",
+    "source": "https://www.globenewswire.com/news-release/2026/02/13/3238166/0/en/Mobbi-AI-Launches-Agentic-Video-Editing-Platform-Pioneering-Vibe-Editing-for-Long-Form-Video-Creation.html",
+    "trl": 7,
+    "disciplines": [
+      "animation",
+      "interaction design",
+      "marketing & PR",
+      "education"
+    ]
+  },
+  {
+    "id": "t091",
+    "name": "Looking Glass Hololuminescent Displays",
+    "category": "Holographic & volumetric displays",
+    "description": "Light-field optical stack in a sub-1-inch panel delivering glasses-free multi-view 3D to groups: 16-inch FHD and 27-inch 4K shipping, 86-inch signage, Unity/Unreal plugins. Won SID 2026 Display of the Year. DISRUPTIVE BECAUSE: shared headset-free 3D presentation for critiques and exhibitions; displaces printed portfolios and 2D monitors for 3D work review.",
+    "relevantDisciplines": "3D design, sculpture, product design, exhibition/retail design",
+    "seeItInAction": "YouTube 'Looking Glass Hololuminescent CES 2026'; lookingglassfactory.com",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "exhibition & curation",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t092",
+    "name": "Looking Glass Musubi (consumer holographic frame)",
+    "category": "Holographic & volumetric displays",
+    "description": "Consumer holographic photo/video frame with one-click 2D-to-holographic conversion. DISRUPTIVE BECAUSE: first mass-market 'holographic' consumer object; future portfolios may be light-field, not flat.",
+    "relevantDisciplines": "Photography, product design, consumer media",
+    "seeItInAction": "Search 'Looking Glass Musubi'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "photography",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t093",
+    "name": "Voxon Photonics (true volumetric displays)",
+    "category": "Holographic & volumetric displays",
+    "description": "True volumetric displays rendering 3D images in a physical volume via swept-volume projection (viewable from all sides in real space). DISRUPTIVE BECAUSE: new medium for data sculpture, stage design, and installations where viewers walk around the image.",
+    "relevantDisciplines": "Data visualization, stage/set design, medical illustration, interactive art",
+    "seeItInAction": "voxonphotonics.com demos; search 'Voxon Photonics volumetric'",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "illustration",
+      "interaction design",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t094",
+    "name": "Sony XYN Spatial Reality Display",
+    "category": "Holographic & volumetric displays",
+    "description": "Glasses-free spatial-reality (light-field) display as a professional platform for reviewing 3D assets, with a growing spatial-reality SDK. DISRUPTIVE BECAUSE: professional-grade glasses-free 3D review; displaces turntable renders and VR-headset reviews for dailies.",
+    "relevantDisciplines": "VFX, game art, product design",
+    "seeItInAction": "SIGGRAPH 2025 demo coverage; Sony XYN product page",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t095",
+    "name": "NVIDIA ACE (Avatar Cloud Engine)",
+    "category": "Digital humans & AI NPCs",
+    "description": "Microservices suite (Riva ASR/TTS, NeMo LLM, Audio2Face, Audio2Gesture) for lifelike AI characters; 2025-26 brought on-device PC NIM microservices to 100M+ RTX PCs. DISRUPTIVE BECAUSE: conversational, emotionally responsive NPCs without hand-scripted dialogue trees; displaces traditional game-writing/quest pipelines.",
+    "relevantDisciplines": "Game design, interactive narrative, theatre/performance tech, education",
+    "seeItInAction": "developer.nvidia.com/ace; YouTube 'Covert Protocol NVIDIA Inworld demo'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "game design",
+      "interaction design",
+      "theatre & performance",
+      "education"
+    ]
+  },
+  {
+    "id": "t096",
+    "name": "Meta Hologram (photorealistic avatars for glasses calls)",
+    "category": "Digital humans & AI NPCs",
+    "description": "A short self-capture creates a photorealistic digital avatar driven entirely by your voice for hands-free video calls from Ray-Ban Display. DISRUPTIVE BECAUSE: photoreal self-avatars become a default communication layer; displaces webcam presence.",
+    "relevantDisciplines": "Communication design, acting/performance, telepresence",
+    "seeItInAction": "roadtovr.com Connect 2026 coverage",
+    "maturity": "Just-commercialized",
+    "source": "https://roadtovr.com/meta-ray-ban-display-int-launch-connect-2026/",
+    "trl": 7,
+    "disciplines": [
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t097",
+    "name": "Inworld AI & Convai (conversational NPC engines)",
+    "category": "Digital humans & AI NPCs",
+    "description": "Multimodal engines for NPCs with unscripted dialogue, memory, and evolving personalities, rendered via Unreal Engine 5/MetaHuman. DISRUPTIVE BECAUSE: turns NPC behavior design from scripting into character direction; creates the 'AI character director' role.",
+    "relevantDisciplines": "Game design, interactive theatre, virtual beings",
+    "seeItInAction": "inworld.ai and convai.com demos; YouTube 'Convai MetaHuman demo'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "game design",
+      "interaction design",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t098",
+    "name": "Neural music composition (Blackrock Neurotech + Caltech)",
+    "category": "BCI for creative expression",
+    "description": "Quadriplegic musician composing music directly from neural signals: an algorithm maps imagined movements to musical tones, incorporated into the song 'Wirehead'. DISRUPTIVE BECAUSE: proof that BCI can be a creative instrument; opens 'neural instrument' as a compositional medium and accessibility-first music practice.",
+    "relevantDisciplines": "Music composition, accessibility design, performance",
+    "seeItInAction": "Search 'Galen Buckwalter Wirehead'",
+    "maturity": "Experimental",
+    "source": "https://engtechnica.com/music-composed-directly-from-neural-signals/",
+    "trl": 3,
+    "disciplines": [
+      "music & audio",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t099",
+    "name": "Synchron Stentrode + Apple BCI HID",
+    "category": "BCI for creative expression",
+    "description": "Endovascular BCI (no open-brain surgery) targeting a 2026 pivotal trial; an ALS patient used it with Apple's native BCI Human Interface Device profile to navigate an iPad by thought. DISRUPTIVE BECAUSE: OS-level neural input legitimizes thought-control as a creative input modality; future 'draw by intention' becomes a platform feature.",
+    "relevantDisciplines": "Accessibility, interaction design, music tech",
+    "seeItInAction": "techtimes.com pivotal-trial coverage (June 2026); Apple accessibility/BCI HID docs",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t100",
+    "name": "Meta neural wristband (EMG) + Neuralink Telepathy",
+    "category": "BCI for creative expression",
+    "description": "Meta's EMG wristband decodes motor intent from wrist muscle signals for subtle gesture UI (bundled with Ray-Ban Display); Neuralink's N1 implant frames 'digital freedom' goals including art creation by thought. DISRUPTIVE BECAUSE: silent, hands-busy control of 3D/sculpting/DAW tools; non-invasive neural-adjacent input for creative software.",
+    "relevantDisciplines": "Interaction design, 3D modeling, music production, accessibility",
+    "seeItInAction": "roadtovr.com Ray-Ban Display coverage; search 'Neuralink Telepathy demo'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "t101",
+    "name": "Meta Ray-Ban Display + Neural Band",
+    "category": "Spatial computing",
+    "description": "$800 smart glasses with a single waveguide display plus the EMG Neural Band for low-key gesture UI; international rollout at Connect 2026 with prescription lenses. DISRUPTIVE BECAUSE: first display-glasses with mass-market fit; AR overlays become a daily creative-review medium; displaces phone-based AR for field/site work.",
+    "relevantDisciplines": "Architecture/site review, fashion, photography, industrial design",
+    "seeItInAction": "roadtovr.com international launch coverage; meta.com product page",
+    "maturity": "Just-commercialized",
+    "source": "https://roadtovr.com/meta-ray-ban-display-int-launch-connect-2026/",
+    "trl": 7,
+    "disciplines": [
+      "photography",
+      "interaction design",
+      "architecture",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t102",
+    "name": "Meta VR Glasses (Spring 2027) + Ray-Ban Gen 3",
+    "category": "Spatial computing",
+    "description": "$1,300 VR glasses (100g magnesium, 5K, tethered puck, holographic calling, Quest catalog) shipping spring 2027; Ray-Ban Meta Gen 3 ($449) and camera-free Audio ($349). DISRUPTIVE BECAUSE: tiered ladder from audio-only to full VR mainstreams spatial capture; every student becomes a 3D-capture device.",
+    "relevantDisciplines": "3D capture, remote collaboration, performance",
+    "seeItInAction": "hypebeast.com Connect 2026 roundup; Meta keynote replays",
+    "maturity": "Just-commercialized",
+    "source": "https://hypebeast.com/2026/9/meta-connect-2026-vr-glasses-ray-ban-audio-next-gen-specs",
+    "trl": 7,
+    "disciplines": [
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t103",
+    "name": "XPANCEO smart contact lenses",
+    "category": "Spatial computing",
+    "description": "AR contact lenses: microdisplay, optics, wireless power sealed into lens polymer; Contamac partnership (Oct 1, 2026) to scale manufacturing; first prototype targeted end of 2026. NOTE: performance claims (night vision, zoom, health sensing) are company-announced only - treat as speculative. DISRUPTIVE BECAUSE: the endgame of spatial computing; invisible AR dissolves the 'device' from creative practice.",
+    "relevantDisciplines": "Interaction design, speculative design, wearable art",
+    "seeItInAction": "visionmonday.com partnership announcement (Oct 1, 2026)",
+    "maturity": "Experimental",
+    "source": "http://www.visionmonday.com/business/international-news/article/xpanceo-partners-with-contamac-to-create-durable-and-comfortable-smart-contact-lenses-at-scale/",
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t104",
+    "name": "Modern Meadow Bio-Alloy / INNOVERA",
+    "category": "Biofabrication & living materials",
+    "description": "Biofabricated leather alternative from fermented plant proteins; ~80% fewer CO2e than bovine leather per 2025 LCA; licensed to two major European tanneries (Sep 2026). DISRUPTIVE BECAUSE: scalable, tannery-compatible leather alternative with tunable material properties; displaces exotic-leather sourcing in fashion education. Reality check: retail availability of alt-leathers still rare.",
+    "relevantDisciplines": "Fashion, footwear, product/material design",
+    "seeItInAction": "Lineapelle 2026 coverage; Allbirds Terralux line",
+    "maturity": "Just-commercialized",
+    "source": "https://kindeco.org/en/article/modern-meadow-bio-alloy-future-of-leather-review-f6ipo",
+    "trl": 7,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t105",
+    "name": "Modern Synthesis x GANNI bacterial nanocellulose 'Bou Bag'",
+    "category": "Biofabrication & living materials",
+    "description": "Handbag grown from bacterial nanocellulose; showcase at London Design Festival Sep 2026; GANNI phasing out virgin leather by end of 2026. DISRUPTIVE BECAUSE: living-factory textiles grown to shape in vats; displaces cut-and-sew leather workflows; suggests zero-waste grown garments.",
+    "relevantDisciplines": "Fashion, textile design, biodesign",
+    "seeItInAction": "London Design Festival 2026 documentation",
+    "maturity": "Emerging",
+    "source": "https://www.businessmole.com/modern-synthesis-and-ganni-introduce-innovative-bou-bag-made-with-bacterial-nanocellulose-at-london-design-festival/",
+    "trl": 5,
+    "disciplines": [
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "t106",
+    "name": "ecoLogicStudio algae facades",
+    "category": "Biofabrication & living materials",
+    "description": "Building cladding of micro-algae photobioreactors: 2 sqm absorbs ~22kg CO2/year; Lisbon BioFactory pilot integrates algae bioreactors with AI/automation. DISRUPTIVE BECAUSE: buildings become productive organisms; architecture students design for carbon capture and biomass yield, not just shelter.",
+    "relevantDisciplines": "Architecture, urban design, biodesign",
+    "seeItInAction": "STIRworld BioFactory coverage; ecoLogicStudio portfolio",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t107",
+    "name": "FundamentAI & CryoflorE (AI + microbial co-designed architecture)",
+    "category": "Biofabrication & living materials",
+    "description": "City-planning project co-designed by humans, AI, and microbial life using real-time ecological signals (Venice Biennale 2025); urban model powered by bio-catalytic cells with cyanobacteria in biodegradable 3D-printed units. DISRUPTIVE BECAUSE: 'more-than-human' co-authorship as an architectural method; displaces human-only authorship models in studio.",
+    "relevantDisciplines": "Architecture, speculative design, biodesign",
+    "seeItInAction": "Venice Biennale 2025 documentation",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t108",
+    "name": "Trigger-free shape-memory hydrogels (digital 4D printing)",
+    "category": "4D printing & programmable materials",
+    "description": "Light-patterned polymer sheets executing autonomous multi-stage shape recovery with programmable onset times, no external trigger (Nature Communications 2025). DISRUPTIVE BECAUSE: time becomes a design parameter; printed objects assemble/actuate themselves; displaces static-part thinking in product and wearable design.",
+    "relevantDisciplines": "Product design, wearable tech, biomedical design",
+    "seeItInAction": "nature.com/articles/s41467-025-67323-1 (open access)",
+    "maturity": "Experimental",
+    "source": "https://www.nature.com/articles/s41467-025-67323-1",
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t109",
+    "name": "Magnetothermal ceramic 4D printing",
+    "category": "4D printing & programmable materials",
+    "description": "Stereolithography + shape-memory polymers + ceramic composites with autonomous shape recovery under magnetic/thermal stimulation. DISRUPTIVE BECAUSE: brings 4D behavior to ceramics, a traditionally static craft material; new elective territory for ceramics programs.",
+    "relevantDisciplines": "Ceramics, aerospace design, biomedical",
+    "seeItInAction": "mdpi.com/1996-1944/19/18/3919",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t110",
+    "name": "Ultra-high-temperature 4D printing (soft robotic gripper)",
+    "category": "4D printing & programmable materials",
+    "description": "Glass-fiber-reinforced thermoplastic polyimide composites: 93.3% shape fixity, 98.7% recovery; demonstrated as a soft robotic gripper for deployable space structures. DISRUPTIVE BECAUSE: extends 4D printing into extreme environments; displaces mechanical hinges with material intelligence.",
+    "relevantDisciplines": "Sculpture/installation, aerospace, soft robotics",
+    "seeItInAction": "nature.com/articles/s41598-026-73675-5",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t111",
+    "name": "ROBOTOR / LITIX (robotic Carrara marble sculpting)",
+    "category": "Robotics in art",
+    "description": "Robotic arms + AI-assisted software carving intricate sculptures from Carrara marble: artist's 3D file to toolpath to robotic material removal, artisans finish. DISRUPTIVE BECAUSE: centuries-old subtractive craft becomes robot-executed; reframes sculptors as digital modelers + finishers; direct curriculum question for sculpture programs.",
+    "relevantDisciplines": "Sculpture, stone craft, digital fabrication",
+    "seeItInAction": "undercodenews.com feature + video (Sep 2026); ROBOTOR demos",
+    "maturity": "Just-commercialized",
+    "source": "https://undercodenews.com/when-robots-sculpt-carrara-marble-is-the-artist-still-the-one-holding-the-chisel-video/",
+    "trl": 7,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t112",
+    "name": "Ai-Da (humanoid robot artist to architecture)",
+    "category": "Robotics in art",
+    "description": "The humanoid robot artist has moved into generative-AI architecture: 'Space Pod' design exhibition; concepts generated digitally, translated into physical paintings via robotic arm. DISRUPTIVE BECAUSE: sustained high-profile test case for machine authorship; forces programs to articulate what human creativity means when a robot exhibits at design biennales.",
+    "relevantDisciplines": "Fine art, architecture, design theory",
+    "seeItInAction": "YouTube 'Ai-Da Space Pod'; ai-da.com",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t113",
+    "name": "Dual-arm collaborative pottery robot",
+    "category": "Robotics in art",
+    "description": "6DoF dual-arm robot with visual localization performing pottery creation ('pottery robotics' as a formal concept). DISRUPTIVE BECAUSE: wheel-throwing - the embodied core of ceramics pedagogy - becomes automatable; reframes the potter's hand as a design input.",
+    "relevantDisciplines": "Ceramics, craft",
+    "seeItInAction": "mdpi.com/2073-8994/17/4/532",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t114",
+    "name": "Music-driven robot swarm painting (Univ. of Waterloo)",
+    "category": "Robotics in art",
+    "description": "Wheeled robots with RGB LEDs responding to musical features (tempo, rhythm, chord changes); an overhead camera records light trails as a 'painting'; humans co-create live. DISRUPTIVE BECAUSE: swarm as ensemble instrument; new performance medium fusing DJ and painter.",
+    "relevantDisciplines": "Performance, sound art, interactive installation",
+    "seeItInAction": "knowridge.com/2026/02 feature; arxiv.org/pdf/2506.00326",
+    "maturity": "Experimental",
+    "source": "https://knowridge.com/2026/02/robot-swarms-could-turn-music-into-stunning-light-paintings-in-real-time/",
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "music & audio",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t115",
+    "name": "Swarm Garden - architectural swarms",
+    "category": "Robotics in art",
+    "description": "Robotic modules networked into reconfigurable architectural systems: 16-bot adaptive office-window shading; 36-bot gallery deployment responding to a dancer's wearable. DISRUPTIVE BECAUSE: facades and interiors become self-organizing collectives; displaces static partitions and kinetic-sculpture one-offs with programmable matter at architectural scale.",
+    "relevantDisciplines": "Architecture, interior design, interactive installation",
+    "seeItInAction": "YouTube 'Architectural swarms for responsive facades' (youtube.com/watch?v=2wkh8_5-kqg)",
+    "maturity": "Experimental",
+    "source": "https://www.youtube.com/watch?v=2wkh8_5-kqg",
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "interior design",
+      "architecture"
+    ]
+  },
+  {
+    "id": "t116",
+    "name": "MRMC robotic cinematography (Bolt / Cinebot Nano)",
+    "category": "Robotics in art",
+    "description": "Bolt high-speed 6-axis cinebot for VFX/action; new Cinebot Nano (IBC 2026) - compact 9-axis robot for cameras to 7kg aimed at smaller teams. DISRUPTIVE BECAUSE: precision repeatable camera moves trickle down from tentpole VFX to indie/educational budgets; enables 'impossible' high-speed shots as standard vocabulary.",
+    "relevantDisciplines": "Cinematography, VFX, broadcast",
+    "seeItInAction": "ts2.tech Cinebot Nano vs Bolt; mrmoco.com",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "film & video"
+    ]
+  },
+  {
+    "id": "t117",
+    "name": "Ultraleap STRATOS (mid-air tactile displays)",
+    "category": "Ultrasound mid-air haptics",
+    "description": "256-transducer ultrasound arrays projecting tactile sensations onto bare hands: virtual buttons, sliders, textures 'felt but not seen'. NOTE: STRATOS Inspire module page now shows discontinued/reference-only; line is in transition. DISRUPTIVE BECAUSE: touch without touching; adds a tactile channel to installations and AR/VR; opens haptic choreography as a medium.",
+    "relevantDisciplines": "Interaction design, installation art, museum/retail experience",
+    "seeItInAction": "ultraleap.com demos; YouTube 'Ultraleap mid-air haptics demo'",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "interaction design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t118",
+    "name": "Janus E-textile (skin-inspired dual-sided smart fabric)",
+    "category": "E-skin & responsive wearables",
+    "description": "Fabric mimicking skin's layered architecture: one face senses motion/strain via flexible sensor networks; the other manages moisture directionally. DISRUPTIVE BECAUSE: sensing and comfort engineered into the textile itself; garments become HMI surfaces for performance and accessibility.",
+    "relevantDisciplines": "Fashion tech, wearable art, performance, accessibility",
+    "seeItInAction": "scienmag.com feature; search 'Janus E-textile'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t119",
+    "name": "Chameleon-inspired stretchable e-skin (Stanford)",
+    "category": "E-skin & responsive wearables",
+    "description": "Stretchable electronic skin combining pressure-sensitive polymer with electrochromic polymer: applied pressure changes the skin's color (red to blue-gray at handshake pressure). DISRUPTIVE BECAUSE: touch-responsive color-changing second skin; displaces static costume/makeup with living surfaces.",
+    "relevantDisciplines": "Fashion, prosthetics design, robotics, performance",
+    "seeItInAction": "edn.com feature; search 'Stanford chameleon e-skin'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t120",
+    "name": "Printed electronic tattoos (Rogers Research Group)",
+    "category": "E-skin & responsive wearables",
+    "description": "Electronic sensors printed directly onto human skin, 1/30th the thickness of earlier e-stickers; measure hydration, temperature, muscle and brain signals. DISRUPTIVE BECAUSE: the body as circuit board; biometric-driven performance art; displaces wrist-worn sensors for intimate data.",
+    "relevantDisciplines": "Wearable art, performance, biomedical design",
+    "seeItInAction": "edn.com feature; search 'Rogers Research Group electronic tattoo'",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design",
+      "fashion & textiles",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "t121",
+    "name": "OVR Technology Omara Core 10 (desktop scent display)",
+    "category": "Digital scent",
+    "description": "Announced Sep 29, 2026: $179 desktop personal scent display - 10 hot-swappable cartridges, mixes up to 3 scents, directs scent at precise game moments then clears it. Shipping 2027. DISRUPTIVE BECAUSE: scent joins the real-time media stack; displaces the assumption that digital experience is audio-visual only.",
+    "relevantDisciplines": "Game design, immersive theatre, exhibition, marketing",
+    "seeItInAction": "einpresswire.com announcement (Sep 29, 2026); ovrtechnology.com",
+    "maturity": "Emerging",
+    "source": "https://www.einpresswire.com/article/944895628/ovr-technology-opens-reservations-for-omara-core-10-a-179-desktop-scent-display-for-pc-gaming",
+    "trl": 5,
+    "disciplines": [
+      "game design",
+      "interaction design",
+      "theatre & performance",
+      "marketing & PR",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t122",
+    "name": "Autodesk Neural CAD",
+    "category": "AI text-to-CAD & generative architecture",
+    "description": "Foundation model trained on professional CAD data that reasons directly about geometry and topology: generates editable B-rep CAD from text, sketches, images, voice. DISRUPTIVE BECAUSE: collapses sketch-to-CAD-to-documentation; displaces entry-level CAD drafting; reframes design education around intent specification.",
+    "relevantDisciplines": "Industrial design, architecture, engineering, digital fabrication",
+    "seeItInAction": "develop3d.com 'Autodesk's AI blueprint for CAD' (Sep 2026); AU 2025/2026 keynotes",
+    "maturity": "Emerging",
+    "source": "https://develop3d.com/cad/autodesks-ai-blueprint-for-cad/",
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t123",
+    "name": "Project Quill / AutoTimeline / AutoAssemble (Autodesk AU 2026)",
+    "category": "AI text-to-CAD & generative architecture",
+    "description": "Multimodal AI feature set: sketch + prompt design interface; imported solid to parametric feature tree; assembly reasoning; architectural blocking via simultaneous sketching + speech. DISRUPTIVE BECAUSE: design intent captured multimodally; displaces the mouse-and-menu CAD learning curve.",
+    "relevantDisciplines": "Architecture, product design",
+    "seeItInAction": "engineering.com AU 2026 coverage",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t124",
+    "name": "Text-to-CAD startups (Zoo, AdamCAD, CADGPT)",
+    "category": "AI text-to-CAD & generative architecture",
+    "description": "Commercial text-to-CAD: editable B-rep models and parametric output from natural language; single-component parts described as production-ready in 2026. DISRUPTIVE BECAUSE: laser-cut/3D-print-ready parts from sentences; displaces basic CAD coursework.",
+    "relevantDisciplines": "Product design, digital fabrication, engineering education",
+    "seeItInAction": "zoo.dev; adamcad.com; medium.com 'I Tried Text-to-CAD AI' (2026)",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "craft & fabrication",
+      "education"
+    ]
+  },
+  {
+    "id": "t125",
+    "name": "AI interior/room generators (Planner 5D, RoomGPT, Spacely AI)",
+    "category": "AI text-to-CAD & generative architecture",
+    "description": "Photo-to-redesign AI generating style variations and layout suggestions from a room photo, increasingly paired with AR/VR preview. DISRUPTIVE BECAUSE: interior concepting becomes instant and client-driven; displaces mood-board labor and junior visualization roles.",
+    "relevantDisciplines": "Interior design, real estate staging, set design",
+    "seeItInAction": "github.com/Nutlope/roomGPT; planner5d.com",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "interior design"
+    ]
+  },
+  {
+    "id": "t126",
+    "name": "TRELLIS.2 (open 3D foundation model)",
+    "category": "Synthetic data & foundation 3D models",
+    "description": "4B-parameter native 3D generation model with native PBR output (base color, roughness, metallic), GLB export, 3s generation on H100. NOTE: license/venue claims (MIT, CVPR 2026) come from community docs only - verify before strong citation. DISRUPTIVE BECAUSE: open, fast, PBR-native 3D generation; the 'Stable Diffusion moment' for 3D assets; displaces manual hard-surface modeling for props.",
+    "relevantDisciplines": "Game art, VFX, product visualization",
+    "seeItInAction": "GitHub trellis repo; search 'TRELLIS.2 demo'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "film & video",
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t127",
+    "name": "Tripo P2.0 (native quad-mesh generation)",
+    "category": "Synthetic data & foundation 3D models",
+    "description": "3D-native foundation model generating production topology natively: quad-dominant meshes up to 25k faces, Mesh Edit, one-click Smart UV. DISRUPTIVE BECAUSE: AI output becomes riggable/animatable directly; displaces the retopology bottleneck and junior 3D cleanup roles.",
+    "relevantDisciplines": "Game art, animation, VFX",
+    "seeItInAction": "tripo3d.ai; Tripo AI press release (Sep 2026)",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "film & video",
+      "animation",
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t128",
+    "name": "Hunyuan3D 2.1 + synthetic-data pipelines",
+    "category": "Synthetic data & foundation 3D models",
+    "description": "Tencent's open-weights image-to-3D model with physics-grounded PBR materials; runs on consumer GPUs; community pipelines use such models to generate training data at scale. DISRUPTIVE BECAUSE: synthetic 3D data breaks the scan-everything bottleneck; displaces manual dataset creation and low-end asset marketplaces.",
+    "relevantDisciplines": "ML-adjacent creative tech, game art, robotics simulation",
+    "seeItInAction": "github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+    "maturity": "Emerging",
+    "source": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+    "trl": 5,
+    "disciplines": [
+      "game design",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t129",
+    "name": "Verge Aero (drone-show platform)",
+    "category": "Drone swarms & robotic cinematography",
+    "description": "Drone-show platform powering the world's largest operator network; 2025's narrative 'Quest' production used 2,500 drones; integrating drone swarms with live pyrotechnics. DISRUPTIVE BECAUSE: programmable aerial choreography at thousand-drone scale becomes a standard event medium; creates 'swarm choreographer' as a design role.",
+    "relevantDisciplines": "Event design, public art, entertainment production",
+    "seeItInAction": "Verge Aero showreels; TikTok/Instagram 'drone show 2026'",
+    "maturity": "Just-commercialized",
+    "source": null,
+    "trl": 7,
+    "disciplines": [
+      "interaction design",
+      "events"
+    ]
+  },
+  {
+    "id": "t130",
+    "name": "Samsung transparent MicroLED",
+    "category": "microLED & quantum-dot displays",
+    "description": "CES 2026: 83.2-inch fully transparent MicroLED - content appears floating in mid-air. DISRUPTIVE BECAUSE: display-as-window/glass; retail, gallery, and stage design gain see-through emissive surfaces; displaces projection for floating-image effects.",
+    "relevantDisciplines": "Exhibition, retail, stage design",
+    "seeItInAction": "YouTube 'Samsung transparent MicroLED CES 2026'",
+    "maturity": "Emerging",
+    "source": "https://www.insightmedia.info/samsung-shows-microled-concept-displays-at-ces-2026/",
+    "trl": 5,
+    "disciplines": [
+      "theatre & performance",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t131",
+    "name": "Samsung EL-QD / NanoLED (electroluminescent quantum dot)",
+    "category": "microLED & quantum-dot displays",
+    "description": "SID Display Week 2026 prototypes: quantum dots emitting light directly from electrical signals - greater brightness, power efficiency, and color accuracy. DISRUPTIVE BECAUSE: potential successor display physics; matters for color-critical creative work and mobile AR displays.",
+    "relevantDisciplines": "Display-dependent crafts (photo, video, color grading), AR hardware",
+    "seeItInAction": "svconline.com SID 2026 coverage",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "film & video",
+      "photography",
+      "interaction design",
+      "exhibition & curation",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t132",
+    "name": "Raysolve microLED microdisplays (AR)",
+    "category": "microLED & quantum-dot displays",
+    "description": "Monochrome green microLED at 7M nits, full-color at 850k nits - brightness levels required for daylight AR. DISRUPTIVE BECAUSE: daylight-readable AR microdisplays are the gating component for true outdoor AR glasses.",
+    "relevantDisciplines": "AR hardware, spatial computing",
+    "seeItInAction": "microled-info.com (Sep 19, 2026)",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t133",
+    "name": "Lightmatter Passage (photonic interconnect for AI)",
+    "category": "Photonic compute",
+    "description": "3D photonic interposer letting GPUs sit atop a photonic layer: 114 Tbps aggregate bandwidth; breaks the 'copper wall' (70% interconnect power cut, 10x bandwidth density). DISRUPTIVE BECAUSE: removes the memory/bandwidth wall throttling generative rendering; inference cost is the hidden driver of real-time AI media economics.",
+    "relevantDisciplines": "Technical art, real-time graphics, AI infrastructure (indirect)",
+    "seeItInAction": "lightmatter.co; 'Era of Light' explainer",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t134",
+    "name": "Q.ANT / Ayar Labs / Volantis (photonic inference & optical I/O)",
+    "category": "Photonic compute",
+    "description": "Q.ANT ran generative AI workloads on photonic hardware in a commercial cloud (June 2026); Ayar Labs raised $500M for optical chiplets; Volantis raised $88M Series A (Oct 1, 2026). DISRUPTIVE BECAUSE: photonic inference could collapse the cost/latency of real-time generative media - the economic precondition for always-on AI worlds.",
+    "relevantDisciplines": "Technical art, real-time graphics (indirect)",
+    "seeItInAction": "hpcwire.com; ainchina.com photonic computing roundup",
+    "maturity": "Experimental",
+    "source": null,
+    "trl": 3,
+    "disciplines": [
+      "interaction design"
+    ]
+  },
+  {
+    "id": "t135",
+    "name": "C2PA Content Credentials ecosystem",
+    "category": "Creative IP provenance",
+    "description": "Royalty-free open standard for cryptographically signed provenance manifests traveling with media: origin, tools, AI involvement, edit history. Implementations span Firefly, DALL-E, Runway, ElevenLabs, Gemini, Suno; California SB-942 binding from Jan 1, 2026. DISRUPTIVE BECAUSE: provenance becomes infrastructure; programs must teach credential hygiene and human-authorship evidence (US Copyright Office: prompt alone is not authorship).",
+    "relevantDisciplines": "All creative disciplines; media law/ethics curricula",
+    "seeItInAction": "c2pa.org; contentauthenticity.adobe.com",
+    "maturity": "Just-commercialized",
+    "source": "https://en.wikipedia.org/wiki/Content_Credentials",
+    "trl": 7,
+    "disciplines": [
+      "interaction design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "t136",
+    "name": "Story (on-chain IP rails)",
+    "category": "Creative IP provenance",
+    "description": "Layer-1 blockchain turning IP into programmable, licensable assets with smart-contract royalty rails for the AI-remix era. NOTE: single-source claims - verify independently. DISRUPTIVE BECAUSE: could create machine-readable licensing for AI-generated/derived work; displaces informal 'credit in caption' norms with programmable royalties.",
+    "relevantDisciplines": "Music, visual art, publishing; creative entrepreneurship",
+    "seeItInAction": "story.foundation; search 'Story Protocol IP licensing'",
+    "maturity": "Emerging",
+    "source": null,
+    "trl": 5,
+    "disciplines": [
+      "interaction design",
+      "music & audio",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "t137",
+    "name": "E-paper displays (E Ink)",
+    "category": "E-paper & low-power displays",
+    "description": "Electrophoretic displays that hold an image with zero power; color e-paper (Kaleido 3, Gallery 3/ACeP) now in signage, tablets, and wearables. BMW's iX Flow concept used E Ink panels for a color-changing car body. DISRUPTIVE BECAUSE: ultra-low-power, sunlight-readable, bistable surfaces enable always-on signage, dynamic print, and adaptive skins; displaces backlit LCD for static/ambient content.",
+    "relevantDisciplines": "Graphic design, exhibition/retail design, product design, wearables, automotive surfacing",
+    "seeItInAction": "TikTok: 'E Ink signage', 'BMW iX Flow'; reMarkable Paper Pro (color e-paper tablet)",
+    "maturity": "Established (mono); Emerging (color/large-format)",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "interaction design",
+      "fashion & textiles",
+      "exhibition & curation",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "t138",
+    "name": "IoT for creative installations",
+    "category": "IoT & connected tech",
+    "description": "Networks of cheap connected sensors and actuators (ESP32-class boards, MQTT brokers, cloud dashboards) letting installations sense crowds, weather, or social feeds and respond in real time. DISRUPTIVE BECAUSE: turns static exhibitions and public art into living, data-driven systems; displaces one-way signage with responsive environments.",
+    "relevantDisciplines": "Interactive installations, exhibition design, performance, smart gallery/museum",
+    "seeItInAction": "TikTok: 'ESP32 IoT project'; YouTube: 'IoT art installation'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "interaction design",
+      "theatre & performance",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "t139",
+    "name": "NFC tap interactions",
+    "category": "IoT & connected tech",
+    "description": "Passive NTAG tags that trigger a phone action on tap - no app, no pairing: open a portfolio link, play audio at a gallery label, verify a limited print edition. DISRUPTIVE BECAUSE: collapses the gap between physical artifact and digital content; displaces QR codes where tap is smoother and enables authenticated physical editions.",
+    "relevantDisciplines": "Graphic design, exhibition/curatorial, merch, publishing",
+    "seeItInAction": "TikTok: 'NFC business card'; IG: 'NFC art gallery'",
+    "maturity": "Established",
+    "source": null,
+    "trl": 9,
+    "disciplines": [
+      "graphic design",
+      "writing & publishing",
+      "exhibition & curation"
+    ]
+  }
+]
