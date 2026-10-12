@@ -25,10 +25,11 @@ interface WheelSvgProps {
 const CX = 320;
 const CY = 320;
 const R_OUT = 300;
-const R_IN = 100;
+// Pizza-style: slices run from near the center outward; the hub circle sits on top.
+const R_IN = 16;
 const HUB_R = 88;
 // All-mode radii
-const R_SCH_IN = 100;
+const R_SCH_IN = 16;
 const R_SCH_OUT = 168;
 const R_PRG_IN = 180;
 const R_PRG_OUT = 300;
@@ -216,7 +217,7 @@ export function WheelSvg(props: WheelSvgProps) {
                   d={w.path}
                   fill={i % 2 ? "var(--wheel-unselected-b)" : "var(--wheel-unselected-a)"}
                   stroke="var(--line)"
-                  strokeWidth={1}
+                  strokeWidth={2.5}
                 />
                 {w.showLabel && (
                   <text
@@ -254,7 +255,7 @@ export function WheelSvg(props: WheelSvgProps) {
                   }
                 }}
               >
-                <path d={path} fill={sliceFill(st, i % 2 === 1)} stroke="var(--line)" strokeWidth={1}>
+                <path d={path} fill={sliceFill(st, i % 2 === 1)} stroke="var(--line)" strokeWidth={2.5}>
                   <title>{program.name}</title>
                 </path>
                 {showLabel && (
