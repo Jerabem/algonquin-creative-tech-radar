@@ -1,0 +1,4222 @@
+[
+  {
+    "id": "p001",
+    "name": "Film and Media Production",
+    "credential": "Ontario College Diploma (42 wks, accelerated)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1421X04FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "film & video"
+    ],
+    "tangential": [
+      "animation",
+      "music & audio",
+      "photography"
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Game - Art",
+    "credential": "Ontario College Diploma (2 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1423X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "game design"
+    ],
+    "tangential": [
+      "animation",
+      "interaction design",
+      "illustration"
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "Indigenous Studies",
+    "credential": "Ontario College Diploma (2 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1413X01FWO",
+    "status": "Active",
+    "notes": "New 2025-26; positioned as alternative to cut Pathways to Indigenous Empowerment",
+    "disciplines": [
+      "heritage & museums",
+      "writing & publishing"
+    ],
+    "tangential": [
+      "exhibition & curation",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Interactive Media Design (Co-op and Non Co-op)",
+    "credential": "Ontario College Diploma (2 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "6149X03FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "Media Production",
+    "credential": "Ontario College Diploma (2 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "0381X01FWO",
+    "status": "Active",
+    "notes": "New 2025-26; successor to Broadcasting - Television and Streaming Video",
+    "disciplines": [
+      "film & video"
+    ],
+    "tangential": [
+      "animation",
+      "music & audio",
+      "photography"
+    ]
+  },
+  {
+    "id": "p006",
+    "name": "Mobile Application Design and Development",
+    "credential": "Ontario College Diploma (2 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1515X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p007",
+    "name": "Animation",
+    "credential": "Ontario College Advanced Diploma (3 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1288X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "animation"
+    ],
+    "tangential": [
+      "illustration",
+      "game design",
+      "film & video"
+    ]
+  },
+  {
+    "id": "p008",
+    "name": "Game - Development",
+    "credential": "Ontario College Advanced Diploma (3 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "3013X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "game design"
+    ],
+    "tangential": [
+      "animation",
+      "interaction design",
+      "illustration"
+    ]
+  },
+  {
+    "id": "p009",
+    "name": "Graphic Design",
+    "credential": "Ontario College Advanced Diploma (3 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1400X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "graphic design"
+    ],
+    "tangential": [
+      "illustration",
+      "marketing & PR",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p010",
+    "name": "Bachelor of Information Technology - Interactive Multimedia and Design (Co-op)",
+    "credential": "Degree (joint Algonquin/Carleton; BIT degree + Advanced Diploma)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "(none published; apply via Carleton/OUAC)",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p011",
+    "name": "Bachelor of Interior Design (Honours) (Co-op)",
+    "credential": "Honours Degree (4 yrs)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "6148X03FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interior design"
+    ],
+    "tangential": [
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p012",
+    "name": "Bachelor of Interior Design (Entry Level 06) (Honours) (Co-op)",
+    "credential": "Honours Degree (bridging entry, yr 4)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "6148B03FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interior design"
+    ],
+    "tangential": [
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p013",
+    "name": "Drawing Foundations for Animation and Illustration",
+    "credential": "Ontario College Certificate (1 yr)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1452X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "animation",
+      "illustration"
+    ],
+    "tangential": [
+      "game design",
+      "film & video",
+      "graphic design"
+    ]
+  },
+  {
+    "id": "p014",
+    "name": "General Arts and Science - English for Academic Purposes (EAP) (International)",
+    "credential": "Ontario College Certificate (42 wks)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1438Y04FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p015",
+    "name": "Indigenous Studies Foundations - Inuit, Metis, and First Nations",
+    "credential": "Ontario College Certificate (1 yr)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1412X01FWO",
+    "status": "Active",
+    "notes": "New 2025-26",
+    "disciplines": [
+      "heritage & museums",
+      "writing & publishing"
+    ],
+    "tangential": [
+      "exhibition & curation",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p016",
+    "name": "Pre-English for Academic Purposes",
+    "credential": "College Certificate (14 wks)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "(none published)",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p017",
+    "name": "Interactive Media Management",
+    "credential": "Ontario College Graduate Certificate (1 yr)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "0300X01FWO",
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p018",
+    "name": "User Experience Design",
+    "credential": "Ontario College Graduate Certificate (1 yr)",
+    "school": "School of Creative and Interdisciplinary Studies",
+    "campus": "Ottawa",
+    "code": "1441X01FWO",
+    "status": "Active",
+    "notes": "Winter/Fall 2027 intakes open; no Fall 2026 intake shown",
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p019",
+    "name": "Baking and Pastry Arts Management",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p020",
+    "name": "Business",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p021",
+    "name": "Business - Accounting",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p022",
+    "name": "Business - Agriculture",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p023",
+    "name": "Business - Management and Entrepreneurship (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p024",
+    "name": "Business - Marketing (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p025",
+    "name": "Business - Supply Chain and Operations",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p026",
+    "name": "Culinary Management",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p027",
+    "name": "Office Administration - Health Services",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p028",
+    "name": "Public Relations",
+    "credential": "Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p029",
+    "name": "Advertising and Marketing Communications Management",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p030",
+    "name": "Business Administration (Core)",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p031",
+    "name": "Business Administration - Accounting",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p032",
+    "name": "Business Administration - Finance",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p033",
+    "name": "Business Administration - General Business (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p034",
+    "name": "Business Administration - Supply Chain and Operations Management (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p035",
+    "name": "Bachelor of Commerce (Marketing) (Honours)(Co-op)",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p036",
+    "name": "Bachelor of Commerce (Strategic Human Resources Management) (Honours)(Co-op)",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p037",
+    "name": "Bachelor of Commerce (Supply Chain Management) (Honours)(Co-op)",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p038",
+    "name": "Bachelor of Digital Marketing Communication (Honours)(Co-op) (+ 3 pathway variants)",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p039",
+    "name": "Bachelor of Event, Sport, and Entertainment Management (Honours)(Co-op)",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p040",
+    "name": "Baking and Pastry Arts",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p041",
+    "name": "Bookkeeping and Accounting Practices",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p042",
+    "name": "Business Fundamentals",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p043",
+    "name": "Culinary Skills",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p044",
+    "name": "Food Service Worker",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p045",
+    "name": "Office Administration - General",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p046",
+    "name": "Sommelier",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p047",
+    "name": "Wine Appreciation",
+    "credential": "Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p048",
+    "name": "Accounting and Financial Practice",
+    "credential": "Graduate Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p049",
+    "name": "Food and Nutrition Management",
+    "credential": "Graduate Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p050",
+    "name": "Project Management (Co-op/Non Co-op)",
+    "credential": "Graduate Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p051",
+    "name": "Sport Business Management",
+    "credential": "Graduate Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p052",
+    "name": "Supply Chain Management - Global (Co-op/Non Co-op)",
+    "credential": "Graduate Certificate",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p053",
+    "name": "Cook - 415A",
+    "credential": "Apprenticeship",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p054",
+    "name": "Bachelor of Hospitality and Tourism Management (Honours)(Co-op) Pathways for Hospitality",
+    "credential": "Degree",
+    "school": "School of Business & Hospitality",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": "UNRESOLVED: appeared on OPSEU Fall 2024-25 suspension list but is currently listed live; may be reinstated or an intake pause",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p055",
+    "name": "Cardiovascular Technology",
+    "credential": "Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p056",
+    "name": "Practical Nursing (Ottawa)",
+    "credential": "Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p057",
+    "name": "Practical Nursing (Ottawa - Perley Health)",
+    "credential": "Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p058",
+    "name": "Practical Nursing Pathway for PSW (Ottawa; Ottawa - Perley Health)",
+    "credential": "Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p059",
+    "name": "Biotechnology - Advanced (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p060",
+    "name": "Dental Hygiene",
+    "credential": "Advanced Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p061",
+    "name": "Medical Radiation Technology",
+    "credential": "Advanced Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p062",
+    "name": "Respiratory Therapy",
+    "credential": "Advanced Diploma",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p063",
+    "name": "Bachelor of Science in Nursing (Honours)",
+    "credential": "Degree",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p064",
+    "name": "BScN (Honours) Pathway for RPNs",
+    "credential": "Degree",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p065",
+    "name": "Dental Assisting",
+    "credential": "Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p066",
+    "name": "Human Services Foundations",
+    "credential": "Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p067",
+    "name": "Introduction to Canadian Healthcare Studies",
+    "credential": "Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p068",
+    "name": "Personal Support Worker (Ottawa)",
+    "credential": "Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p069",
+    "name": "Personal Support Worker (Ottawa - Perley Health)",
+    "credential": "Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p070",
+    "name": "Diagnostic Cardiac Sonography",
+    "credential": "Graduate Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p071",
+    "name": "Diagnostic Medical Sonography",
+    "credential": "Graduate Certificate",
+    "school": "School of Health Sciences",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p072",
+    "name": "Developmental Services Worker",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p073",
+    "name": "Early Childhood Education (Ottawa - 2 Years)",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p074",
+    "name": "Early Childhood Education (Ottawa - 42 Weeks)",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p075",
+    "name": "Library and Information Technician",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p076",
+    "name": "Occupational Therapist Assistant and Physiotherapy Assistant",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p077",
+    "name": "Social Service Worker",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p078",
+    "name": "Social Service Worker (Intensive)",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p079",
+    "name": "Veterinary Technician",
+    "credential": "Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p080",
+    "name": "Child and Youth Care",
+    "credential": "Advanced Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p081",
+    "name": "Massage Therapy",
+    "credential": "Advanced Diploma",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p082",
+    "name": "Bachelor of Child and Youth Care (Honours)",
+    "credential": "Degree",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": "NEW: Bachelor of Child and Youth Care (Honours)",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p083",
+    "name": "Bachelor of Early Learning and Community Development (Honours)",
+    "credential": "Degree",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p084",
+    "name": "Bachelor of Early Learning and Community Development (Entry Level 5) (Honours)",
+    "credential": "Degree",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p085",
+    "name": "Bachelor of Information Technology - Information Resource Management (Co-op)",
+    "credential": "Degree",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p086",
+    "name": "Medical Device Reprocessing",
+    "credential": "Certificate",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p087",
+    "name": "Play, Learn and Teach Outdoors in the Early Years",
+    "credential": "Certificate",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events",
+      "education"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p088",
+    "name": "Veterinary Assistant",
+    "credential": "Certificate",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p089",
+    "name": "Therapeutic Recreation",
+    "credential": "Graduate Certificate",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p090",
+    "name": "Community and Justice Services",
+    "credential": "Diploma",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p091",
+    "name": "Paramedic",
+    "credential": "Diploma",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p092",
+    "name": "Bachelor of Public Safety (Honours)(Co-op)",
+    "credential": "Degree",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p093",
+    "name": "Pre-Service Firefighter Education and Training",
+    "credential": "Certificate",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p094",
+    "name": "Advanced Care Paramedic",
+    "credential": "Graduate Certificate",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p095",
+    "name": "Victimology",
+    "credential": "Graduate Certificate",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p096",
+    "name": "Police Foundations",
+    "credential": "Diploma",
+    "school": "Police and Public Safety Institute",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": "UNRESOLVED: appeared on OPSEU Fall 2024-25 suspension list but is currently listed live; may reflect an intake pause",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p097",
+    "name": "Aircraft Maintenance Technician",
+    "credential": "Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p098",
+    "name": "Computer Programming (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p099",
+    "name": "Computer Systems Technician - Networking (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p100",
+    "name": "Electromechanical Engineering Technician - Automation and Robotics (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p101",
+    "name": "Web Development and Internet Applications (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p102",
+    "name": "Computer Engineering Technology - Computing Science (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p103",
+    "name": "Computer Programming and Analysis (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p104",
+    "name": "Computer Systems Technology - Security (+ Pathway for Computer Systems Technician)",
+    "credential": "Advanced Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p105",
+    "name": "Mechanical Engineering Technology (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p106",
+    "name": "Photonics Engineering Technology",
+    "credential": "Advanced Diploma",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p107",
+    "name": "Bachelor of Applied Computing (Co-op)",
+    "credential": "Degree",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p108",
+    "name": "Bachelor of Engineering (Automation and Robotics Engineering) (Co-op) (+ 4 pathways)",
+    "credential": "Degree",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p109",
+    "name": "Bachelor of Information Technology - Networking Technology (Co-op)",
+    "credential": "Degree",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p110",
+    "name": "Bachelor of Technology (Business Systems Development) (Honours)(Co-op) (+ pathway)",
+    "credential": "Degree",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p111",
+    "name": "Science and Technology Foundations",
+    "credential": "Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p112",
+    "name": "Artificial Intelligence Software Development (Co-op/Non Co-op)",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p113",
+    "name": "Business Intelligence Systems Infrastructure",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p114",
+    "name": "Cloud Development and Operations",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p115",
+    "name": "Cyber Security Analysis",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p116",
+    "name": "Electronics and Embedded Systems Development",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p117",
+    "name": "Environment, Health and Safety Management",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p118",
+    "name": "Environmental Management and Assessment (Co-op/Non Co-op)",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p119",
+    "name": "Geographic Information Systems (Co-op/Non Co-op)",
+    "credential": "Graduate Certificate",
+    "school": "School of Advanced Technology",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "game design",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p120",
+    "name": "Architectural Technician (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p121",
+    "name": "Cabinetmaking and Furniture Technician",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p122",
+    "name": "Carpentry - Building Construction Technician",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p123",
+    "name": "Construction Engineering Technician (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p124",
+    "name": "Electrical Engineering Technician (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p125",
+    "name": "Heating, Refrigeration and Air Conditioning Technician",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p126",
+    "name": "Motive Power Technician",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p127",
+    "name": "Motive Power Technician - Diesel Equipment and Truck",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p128",
+    "name": "Powerline Technician (Co-op/Non Co-op)",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p129",
+    "name": "Architectural Technology (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p130",
+    "name": "Civil Engineering Technology (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p131",
+    "name": "Electrical Engineering Technology (Co-op/Non Co-op)",
+    "credential": "Advanced Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p132",
+    "name": "Bachelor of Science (Building Science) (Honours)(Co-op) (+ 4 pathways)",
+    "credential": "Degree",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p133",
+    "name": "Electrical Techniques",
+    "credential": "Certificate",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p134",
+    "name": "Mechanical Techniques - Plumbing",
+    "credential": "Certificate",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p135",
+    "name": "Welding and Fabrication Techniques",
+    "credential": "Certificate",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "heritage & museums",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p136",
+    "name": "Building Automation System Operations",
+    "credential": "Graduate Certificate",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p137",
+    "name": "Auto Body and Collision Damage Repairer - 310B",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p138",
+    "name": "Automotive Service Technician (GM-ASEP) - 310S",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p139",
+    "name": "Automotive Service Technician - 310S",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p140",
+    "name": "Commercial Vehicle and Equipment",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p141",
+    "name": "Electrician - Construction and Maintenance - 309A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p142",
+    "name": "General Carpenter - 403A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p143",
+    "name": "Plumber - 306A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p144",
+    "name": "Powerline Technician - 434A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p145",
+    "name": "Refrigeration and Air Conditioning Systems Mechanic - 313A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p146",
+    "name": "Residential Air Conditioning Systems Mechanic - 313D",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p147",
+    "name": "Sheet Metal Worker - 308A",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p148",
+    "name": "Truck and Coach Technician - 310T",
+    "credential": "Apprenticeship",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p149",
+    "name": "Heritage Carpentry and Joinery",
+    "credential": "Diploma",
+    "school": "Algonquin Centre for Construction Excellence (ACCE)",
+    "campus": "Ottawa",
+    "code": null,
+    "status": "Active",
+    "notes": "Repatriated from Perth (Perth campus closed Aug 2026)",
+    "disciplines": [
+      "architecture",
+      "heritage & museums",
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "interior design",
+      "exhibition & curation",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p150",
+    "name": "Bachelor of Science in Nursing",
+    "credential": "Degree",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p151",
+    "name": "Business (Co-op)",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p152",
+    "name": "Computer Systems Technician (Co-op)",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p153",
+    "name": "Early Childhood Education",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p154",
+    "name": "Environmental Technician (Co-op)",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p155",
+    "name": "Forestry Technician",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p156",
+    "name": "Motive Power Technician (Co-op/Apprentice/Diploma)",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p157",
+    "name": "Office Administration - Executive",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p158",
+    "name": "Outdoor Adventure Naturalist (Co-op)",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p159",
+    "name": "Police Foundations",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p160",
+    "name": "Practical Nursing",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p161",
+    "name": "Social Service Worker",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p162",
+    "name": "Applied Nuclear Science and Radiation Safety",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p163",
+    "name": "General Arts and Science (1 yr)",
+    "credential": "Certificate",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p164",
+    "name": "Personal Support Worker",
+    "credential": "Certificate",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p165",
+    "name": "Radiation Safety (Co-op)",
+    "credential": "Certificate",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p166",
+    "name": "Urban Forestry - Arboriculture",
+    "credential": "Certificate",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p167",
+    "name": "Carpentry",
+    "credential": "Apprenticeship",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p168",
+    "name": "Cook",
+    "credential": "Apprenticeship",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": null,
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p169",
+    "name": "Outdoor Adventure",
+    "credential": "Diploma",
+    "school": "Pembroke Campus (Algonquin College in the Ottawa Valley)",
+    "campus": "Pembroke",
+    "code": null,
+    "status": "Active",
+    "notes": "Verified live: Fall 2026/Fall 2027 intakes Open",
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p170",
+    "name": "Academic Upgrading (Ottawa)",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p171",
+    "name": "Bachelor of Technology (Digital Health) (Honours)",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p172",
+    "name": "Brand Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p173",
+    "name": "Brand Management (two-year)",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p174",
+    "name": "Broadcasting - Radio and Podcasting",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "journalism",
+      "film & video"
+    ],
+    "tangential": [
+      "writing & publishing",
+      "photography",
+      "animation"
+    ]
+  },
+  {
+    "id": "p175",
+    "name": "Building Information Modelling - Lifecycle Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p176",
+    "name": "Business - Trades",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p177",
+    "name": "Business Administration - Human Resources",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p178",
+    "name": "Business Administration - International Business",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p179",
+    "name": "Business Administration - Marketing",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p180",
+    "name": "Creative Industries Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p181",
+    "name": "Digital Health",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p182",
+    "name": "Energy Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p183",
+    "name": "Esthetics and Hairstyling",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "fashion & textiles"
+    ],
+    "tangential": [
+      "craft & fabrication",
+      "marketing & PR",
+      "photography"
+    ]
+  },
+  {
+    "id": "p184",
+    "name": "Financial Services Canadian Context",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p185",
+    "name": "General Arts and Science - Aviation Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p186",
+    "name": "Human Resources Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p187",
+    "name": "Interdisciplinary Studies in Human-Centred Design",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p188",
+    "name": "Interior Decorating",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "interior design"
+    ],
+    "tangential": [
+      "architecture",
+      "craft & fabrication",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p189",
+    "name": "International Business Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p190",
+    "name": "Marketing Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p191",
+    "name": "Marketing Research and Analysis",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p192",
+    "name": "Office Administration - Executive",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p193",
+    "name": "Outdoor Adventure Naturalist",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p194",
+    "name": "Performing Arts",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "theatre & performance"
+    ],
+    "tangential": [
+      "music & audio",
+      "events",
+      "film & video"
+    ]
+  },
+  {
+    "id": "p195",
+    "name": "Photography - Content Creation",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "photography"
+    ],
+    "tangential": [
+      "film & video",
+      "journalism",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p196",
+    "name": "Police Foundations",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p197",
+    "name": "Professional Writing",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p198",
+    "name": "Regulatory Affairs - Sciences",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p199",
+    "name": "Retirement Communities Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p200",
+    "name": "Scriptwriting",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p201",
+    "name": "Strategic Global Business Management",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p202",
+    "name": "Teachers of English as a Second/Foreign Language",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "writing & publishing",
+      "education"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p203",
+    "name": "Technical Writer",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p204",
+    "name": "Visual Development for Entertainment",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "illustration"
+    ],
+    "tangential": [
+      "animation",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p205",
+    "name": "Water and Wastewater Technician",
+    "credential": "",
+    "school": "Various (see notes)",
+    "campus": null,
+    "code": null,
+    "status": "Suspended - Wave 1 (Feb 2025; OPSEU compilation, college has not distinguished cancelled vs intake-suspended)",
+    "notes": "Listed in OPSEU Fall 2024-Fall 2025 compilation; official count was 37 suspended programs",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p206",
+    "name": "Pathways to Indigenous Empowerment",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "heritage & museums",
+      "writing & publishing"
+    ],
+    "tangential": [
+      "exhibition & curation",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p207",
+    "name": "Applied Museum Studies",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "heritage & museums"
+    ],
+    "tangential": [
+      "exhibition & curation",
+      "architecture",
+      "craft & fabrication"
+    ]
+  },
+  {
+    "id": "p208",
+    "name": "Design Foundations",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "graphic design"
+    ],
+    "tangential": [
+      "exhibition & curation",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p209",
+    "name": "Journalism",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "journalism"
+    ],
+    "tangential": [
+      "writing & publishing",
+      "film & video",
+      "photography"
+    ]
+  },
+  {
+    "id": "p210",
+    "name": "Music, Media and Film Foundations",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "film & video",
+      "music & audio"
+    ],
+    "tangential": [
+      "animation",
+      "photography",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p211",
+    "name": "General Arts and Science (excluding EAP)",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "writing & publishing"
+    ],
+    "tangential": [
+      "journalism",
+      "graphic design",
+      "marketing & PR"
+    ]
+  },
+  {
+    "id": "p212",
+    "name": "Music Industry Arts",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "music & audio"
+    ],
+    "tangential": [
+      "film & video",
+      "theatre & performance",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p213",
+    "name": "Illustration and Concept Art",
+    "credential": "",
+    "school": "Faculty of Arts, Media and Design",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "illustration"
+    ],
+    "tangential": [
+      "animation",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p214",
+    "name": "Bachelor of Culinary Arts and Food Science (Honours)",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p215",
+    "name": "Bartending",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p216",
+    "name": "Business Development and Sales",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p217",
+    "name": "Hospitality - Hotel and Restaurant Operations Management",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p218",
+    "name": "Tourism (Travel)",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p219",
+    "name": "Law Clerk",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p220",
+    "name": "Event Management",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p221",
+    "name": "Financial Services",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p222",
+    "name": "Paralegal",
+    "credential": "",
+    "school": "School of Business & Hospitality",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR",
+      "events"
+    ],
+    "tangential": [
+      "graphic design",
+      "writing & publishing",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p223",
+    "name": "Sustainable Architectural Design",
+    "credential": "",
+    "school": "ACCE",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "interior design",
+      "craft & fabrication",
+      "heritage & museums"
+    ]
+  },
+  {
+    "id": "p224",
+    "name": "Horticultural Industries",
+    "credential": "",
+    "school": "ACCE",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "craft & fabrication",
+      "interior design"
+    ]
+  },
+  {
+    "id": "p225",
+    "name": "Horticulture Techniques (apprenticeship)",
+    "credential": "",
+    "school": "ACCE",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "architecture"
+    ],
+    "tangential": [
+      "craft & fabrication",
+      "interior design"
+    ]
+  },
+  {
+    "id": "p226",
+    "name": "Manufacturing Engineering Technician",
+    "credential": "",
+    "school": "School of Advanced Technology",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "craft & fabrication"
+    ],
+    "tangential": [
+      "architecture",
+      "interior design",
+      "fashion & textiles"
+    ]
+  },
+  {
+    "id": "p227",
+    "name": "Pre-Health Pathway to Certificates and Diplomas",
+    "credential": "",
+    "school": "School of Health Sciences",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p228",
+    "name": "Pre-Health Pathway to Advanced Diplomas and Degrees",
+    "credential": "",
+    "school": "School of Health Sciences",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "interaction design"
+    ]
+  },
+  {
+    "id": "p229",
+    "name": "Recreation and Leisure Services",
+    "credential": "",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "marketing & PR",
+      "theatre & performance",
+      "music & audio"
+    ]
+  },
+  {
+    "id": "p230",
+    "name": "Fitness and Health Promotion (online)",
+    "credential": "",
+    "school": "School of Wellness, Public Safety & Community Studies",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "education"
+    ],
+    "tangential": [
+      "events",
+      "theatre & performance"
+    ]
+  },
+  {
+    "id": "p231",
+    "name": "Business (Pembroke)",
+    "credential": "",
+    "school": "Pembroke Campus",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p232",
+    "name": "Business Fundamentals (Pembroke)",
+    "credential": "",
+    "school": "Pembroke Campus",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "marketing & PR"
+    ],
+    "tangential": [
+      "events",
+      "graphic design",
+      "writing & publishing"
+    ]
+  },
+  {
+    "id": "p233",
+    "name": "Computer Programming (Pembroke)",
+    "credential": "",
+    "school": "Pembroke Campus",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "interaction design"
+    ],
+    "tangential": [
+      "graphic design",
+      "game design",
+      "exhibition & curation"
+    ]
+  },
+  {
+    "id": "p234",
+    "name": "Environmental Management and Assessment (Pembroke)",
+    "credential": "",
+    "school": "Pembroke Campus",
+    "campus": null,
+    "code": null,
+    "status": "Closing Fall 2026 - Board-approved Mar 2, 2026 (7 cancelled + 23 suspended with intent to cancel; split not published)",
+    "notes": "Teach-out covers current learners incl. Spring 2026 admits; 9th Arts/Media/Design program unnamed in public reporting",
+    "disciplines": [
+      "events"
+    ],
+    "tangential": [
+      "education",
+      "heritage & museums"
+    ]
+  }
+]
