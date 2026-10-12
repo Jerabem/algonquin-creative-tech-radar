@@ -1,0 +1,122 @@
+/* ------------------------------------------------------------------
+   Project Discovery — design tokens
+   Algonquin College Visual Identity Standards v2.2 (2024), Colour
+   Palette pp. 34-35. Hex values quoted verbatim from the standards.
+   Only brand-approved text combinations are used (see README).
+   ------------------------------------------------------------------ */
+
+:root {
+  /* Raw brand tokens */
+  --ac-green: #006341;        /* Algonquin Green 3425 C — primary */
+  --ac-green-dark: #003328;   /* Dark Algonquin Green */
+  --ac-growth: #43b02a;       /* New Growth Green 361 C — accent only, sparingly */
+  --ac-charcoal: #212721;     /* Charcoal Black 3 C — body text */
+  --ac-white: #ffffff;
+  --ac-tint-80: #338267;
+  --ac-tint-60: #66a18d;
+  --ac-tint-35: #a6c8bc;
+  --ac-tint-10: #e5efec;
+  --ac-tint-02: #f8f9f8;
+  --ac-grey-50: #909390;      /* lines / subtle elements only — never body text */
+  --ac-grey-10: #e9e9e9;      /* hairlines, dividers */
+
+  --font-stack: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  /* Metropolis is the brand primary face but is licensed; it is NOT
+     bundled here. See README ("Typography") for how to add it. */
+}
+
+/* ---------------- Light mode (default) ---------------- */
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: #ffffff;
+  --bg-subtle: #f8f9f8;
+  --surface: #e5efec;
+  --surface-strong: #a6c8bc;
+  --ink: #212721;
+  --ink-soft: #006341;
+  --headline: #006341;
+  --accent: #006341;
+  --accent-ink: #ffffff;       /* white on Algonquin Green — approved */
+  --accent-soft: #66a18d;
+  --line: #e9e9e9;
+  --line-strong: #909390;
+  --go: #43b02a;              /* New Growth Green — Collide button + success only */
+  --go-ink: #ffffff;
+  --card: #ffffff;
+  --card-border: #e9e9e9;
+  --chip-bg: #e5efec;
+  --chip-ink: #003328;
+  --input-bg: #ffffff;
+  --input-border: #909390;
+  --wheel-unselected-a: #ffffff;
+  --wheel-unselected-b: #e5efec;
+  --wheel-label: #006341;
+  --wheel-selected: #006341;
+  --wheel-selected-label: #ffffff;
+  --wheel-related: #a6c8bc;
+  --wheel-related-label: #003328;
+  --wheel-related-soft: #66a18d;
+  --wheel-related-soft-label: #003328;
+  --wheel-dim: #f8f9f8;
+  --wheel-dim-label: #909390;
+  --wheel-hub: #006341;
+  --wheel-hub-label: #ffffff;
+  --trl-filled: #006341;
+  --trl-empty: #e9e9e9;
+  --shadow: 0 1px 3px rgba(33, 39, 33, 0.12), 0 4px 14px rgba(33, 39, 33, 0.08);
+}
+
+/* ---------------- Dark mode (derived; stays inside approved combos) ---------------- */
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #212721;              /* charcoal base — white on charcoal approved */
+  --bg-subtle: #003328;
+  --surface: #006341;         /* selected / emphasis surfaces, white text on top */
+  --surface-strong: #338267;
+  --ink: #ffffff;
+  --ink-soft: #e5efec;        /* green tint, not grey — grey-on-charcoal is prohibited */
+  --headline: #ffffff;
+  --accent: #006341;
+  --accent-ink: #ffffff;
+  --accent-soft: #66a18d;
+  --line: #338267;
+  --line-strong: #66a18d;
+  --go: #43b02a;
+  --go-ink: #ffffff;
+  --card: #003328;
+  --card-border: #338267;
+  --chip-bg: #338267;
+  --chip-ink: #ffffff;
+  --input-bg: #212721;
+  --input-border: #66a18d;
+  --wheel-unselected-a: #003328;
+  --wheel-unselected-b: #003328;
+  --wheel-label: #e5efec;
+  --wheel-selected: #006341;
+  --wheel-selected-label: #ffffff;
+  --wheel-related: #338267;
+  --wheel-related-label: #ffffff;
+  --wheel-related-soft: #66a18d;
+  --wheel-related-soft-label: #212721;
+  --wheel-dim: #212721;
+  --wheel-dim-label: #66a18d;
+  --wheel-hub: #006341;
+  --wheel-hub-label: #ffffff;
+  --trl-filled: #66a18d;
+  --trl-empty: #338267;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 4px 14px rgba(0, 0, 0, 0.3);
+}
+
+/* Animated theme transition (short cross-fade on background/text colors) */
+body,
+.app-header,
+.card,
+input,
+select,
+textarea,
+button,
+.wheel-wrap {
+  transition: background-color 0.25s ease, color 0.25s ease,
+    border-color 0.25s ease, fill 0.25s ease, opacity 0.25s ease;
+}
